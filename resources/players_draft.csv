@@ -1,4 +1,4 @@
-year,round,pick,player,position,school
+Ôªøyear,round,pick,player,position,school
 1980,1,1,"Carroll, Joe Barry",F/C,Purdue
 1980,1,2,"Griffith, Darrell",G,Louisville
 1980,1,3,"McHale, Kevin",F/C,Minnesota
@@ -254,7 +254,7 @@ year,round,pick,player,position,school
 1985,1,21,"Catledge, Terry",PF,South Alabama
 1985,1,22,"Reynolds, Jerry",G/F,LSU
 1985,1,23,"Green, A. C.",SF/PF,Oregon State
-1985,1,24,"Porter, Terry",PG,WisconsinñStevens Point
+1985,1,24,"Porter, Terry",PG,Wisconsin‚ÄìStevens Point
 1985,2,25,"Smrek, Mike",C,Canisius
 1985,2,26,"Martin, Bill",F,Georgetown
 1985,2,27,"McClain, Dwayne",SG,Villanova
@@ -268,7 +268,7 @@ year,round,pick,player,position,school
 1985,2,35,"Corbin, Tyrone",SF/PF,DePaul
 1985,2,36,"Joseph, Yvon",C,Georgia Tech
 1985,2,37,"Scurry, Carey",F,LIU Brooklyn
-1985,2,38,"MartÌn, Fernando",PF,Real Madrid
+1985,2,38,"Mart√≠n, Fernando",PF,Real Madrid
 1985,2,39,"Montgomery, George",F,Illinois
 1985,2,40,"Acres, Mark",F/C,Oral Roberts
 1985,2,41,"Charles, Lorenzo",PF,NC State
@@ -339,7 +339,7 @@ year,round,pick,player,position,school
 1987,1,12,"Bogues, Muggsy",PG,Wake Forest
 1987,1,13,"Wolf, Joe",C,North Carolina
 1987,1,14,"Frank, Tellis",PF,WKU
-1987,1,15,"Ortiz, JosÈ",PF,Oregon State
+1987,1,15,"Ortiz, Jos√©",PF,Oregon State
 1987,1,16,"Welp, Christian",C,Washington
 1987,1,17,"Murphy, Ronnie",SG,Jacksonville
 1987,1,18,"Jackson, Mark",PG,St. John's
@@ -419,62 +419,62 @@ year,round,pick,player,position,school
 1988,2,46,"Wiley, Morlon",G,Long Beach State
 1988,2,47,"Maxwell, Vernon",SG,Florida
 1988,2,48,"Williams, Micheal",G,Baylor
-1988,2,49,"Vargas, JosÈ",C/PF,LSU
+1988,2,49,"Vargas, Jos√©",C/PF,LSU
 1988,2,50,"Kerr, Steve",PG,Arizona
-1989,1,1,Pervis Ellison,PF,Louisville†
-1989,1,2,Danny Ferry,PF,Duke†
-1989,1,3,Sean Elliott,SF/SG,Arizona†
-1989,1,4,Glen Rice,SF,Michigan†
-1989,1,5,J. R. Reid,PF/C,North Carolina†
-1989,1,6,Stacey King,C,Oklahoma†
-1989,1,7,George McCloud,SG/SF,Florida State†
-1989,1,8,Randy White,PF,Louisiana Tech†
-1989,1,9,Tom Hammonds,PF/C,Georgia Tech†
-1989,1,10,Pooh Richardson,PG,UCLA†
-1989,1,11,Nick Anderson,SF/SG,Illinois†
-1989,1,12,Mookie Blaylock,PG,Oklahoma†
-1989,1,13,Michael Smith,PF,BYU†
-1989,1,14,Tim Hardaway*,PG,UTEP†
-1989,1,15,Todd Lichti,SG,Stanford†
-1989,1,16,Dana Barros,PG,Boston College†
+1989,1,1,Pervis Ellison,PF,Louisville¬†
+1989,1,2,Danny Ferry,PF,Duke¬†
+1989,1,3,Sean Elliott,SF/SG,Arizona¬†
+1989,1,4,Glen Rice,SF,Michigan¬†
+1989,1,5,J. R. Reid,PF/C,North Carolina¬†
+1989,1,6,Stacey King,C,Oklahoma¬†
+1989,1,7,George McCloud,SG/SF,Florida State¬†
+1989,1,8,Randy White,PF,Louisiana Tech¬†
+1989,1,9,Tom Hammonds,PF/C,Georgia Tech¬†
+1989,1,10,Pooh Richardson,PG,UCLA¬†
+1989,1,11,Nick Anderson,SF/SG,Illinois¬†
+1989,1,12,Mookie Blaylock,PG,Oklahoma¬†
+1989,1,13,Michael Smith,PF,BYU¬†
+1989,1,14,Tim Hardaway*,PG,UTEP¬†
+1989,1,15,Todd Lichti,SG,Stanford¬†
+1989,1,16,Dana Barros,PG,Boston College¬†
 1989,1,17,Shawn Kemp,PF/C,Trinity Valley CC
-1989,1,18,B. J. Armstrong,PG,Iowa†
-1989,1,19,Kenny Payne,PF,Louisville†
-1989,1,20,Jeff Sanders,PF/C,Georgia Southern†
-1989,1,21,Blue Edwards,SF/SG,East Carolina†
-1989,1,22,Byron Irvin,SG,Missouri†
-1989,1,23,Roy Marble,SG/SF,Iowa†
-1989,1,24,Anthony Cook,PF/C,Arizona†
-1989,1,25,John Morton,PG,Seton Hall†
-1989,1,26,Vlade Divac,C,KK Partizan†
-1989,1,27,Kenny Battle,PF,Illinois†
-1989,2,28,Sherman Douglas,G,Syracuse†
-1989,2,29,Dyron Nix,F,Tennessee†
-1989,2,30,Frank Kornet,F,Vanderbilt†
-1989,2,31,Jeff Martin,G,Murray State†
-1989,2,32,Stanley Brundy,F,DePaul†
-1989,2,33,Jay Edwards,G,Indiana†
-1989,2,34,Gary Leonard,C,Missouri†
-1989,2,35,Pat Durham,F,Colorado State†
-1989,2,36,Cliff Robinson,PF/C,Connecticut†
-1989,2,37,Michael Ansley,F,Alabama†
-1989,2,38,Doug West,G/F,Villanova†
-1989,2,39,Ed Horton,PF/C,Iowa†
-1989,2,40,Dino Ra?a,PF,KK Split†
-1989,2,41,Doug Roth,C,Tennessee†
-1989,2,42,Michael Cutright,SG,McNeese State†
-1989,2,43,Chucky Brown,PF,North Carolina State†
-1989,2,44,Reggie Cross,PF,Hawaii†
-1989,2,45,Scott Haffner,G,Evansville†
-1989,2,46,Ricky Blanton,F,LSU†
-1989,2,47,Reggie Turner,SF,UAB†
-1989,2,48,Junie Lewis,PG,South Alabama†
-1989,2,49,Haywoode Workman,G,Oral Roberts†
-1989,2,50,Brian Quinnett,F,Washington State†
+1989,1,18,B. J. Armstrong,PG,Iowa¬†
+1989,1,19,Kenny Payne,PF,Louisville¬†
+1989,1,20,Jeff Sanders,PF/C,Georgia Southern¬†
+1989,1,21,Blue Edwards,SF/SG,East Carolina¬†
+1989,1,22,Byron Irvin,SG,Missouri¬†
+1989,1,23,Roy Marble,SG/SF,Iowa¬†
+1989,1,24,Anthony Cook,PF/C,Arizona¬†
+1989,1,25,John Morton,PG,Seton Hall¬†
+1989,1,26,Vlade Divac,C,KK Partizan¬†
+1989,1,27,Kenny Battle,PF,Illinois¬†
+1989,2,28,Sherman Douglas,G,Syracuse¬†
+1989,2,29,Dyron Nix,F,Tennessee¬†
+1989,2,30,Frank Kornet,F,Vanderbilt¬†
+1989,2,31,Jeff Martin,G,Murray State¬†
+1989,2,32,Stanley Brundy,F,DePaul¬†
+1989,2,33,Jay Edwards,G,Indiana¬†
+1989,2,34,Gary Leonard,C,Missouri¬†
+1989,2,35,Pat Durham,F,Colorado State¬†
+1989,2,36,Cliff Robinson,PF/C,Connecticut¬†
+1989,2,37,Michael Ansley,F,Alabama¬†
+1989,2,38,Doug West,G/F,Villanova¬†
+1989,2,39,Ed Horton,PF/C,Iowa¬†
+1989,2,40,Dino Ra?a,PF,KK Split¬†
+1989,2,41,Doug Roth,C,Tennessee¬†
+1989,2,42,Michael Cutright,SG,McNeese State¬†
+1989,2,43,Chucky Brown,PF,North Carolina State¬†
+1989,2,44,Reggie Cross,PF,Hawaii¬†
+1989,2,45,Scott Haffner,G,Evansville¬†
+1989,2,46,Ricky Blanton,F,LSU¬†
+1989,2,47,Reggie Turner,SF,UAB¬†
+1989,2,48,Junie Lewis,PG,South Alabama¬†
+1989,2,49,Haywoode Workman,G,Oral Roberts¬†
+1989,2,50,Brian Quinnett,F,Washington State¬†
 1989,2,51,Mike Morrison,G,Loyola 
-1989,2,52,Greg Grant,G,Trenton State†
-1989,2,53,Jeff Hodge,SG,South Alabama†
-1989,2,54,Toney Mack,SG,Georgia†
+1989,2,52,Greg Grant,G,Trenton State¬†
+1989,2,53,Jeff Hodge,SG,South Alabama¬†
+1989,2,54,Toney Mack,SG,Georgia¬†
 1990,1,1,Derrick Coleman,PF/C,Syracuse
 1990,1,2,Gary Payton,PG,Oregon State
 1990,1,3,Chris Jackson,PG,LSU
@@ -503,7 +503,7 @@ year,round,pick,player,position,school
 1990,1,26,Lance Blanks,PG/SG,Texas
 1990,1,27,Elden Campbell,PF/C,Clemson
 1990,2,28,Les Jepsen,C,Iowa
-1990,2,29,Toni Kuko?,SF,KK Split†
+1990,2,29,Toni Kuko?,SF,KK Split¬†
 1990,2,30,Carl Herrera,PF,Houston
 1990,2,31,Negele Knight,G,Dayton
 1990,2,32,Brian Oliver,G,Georgia Tech
@@ -524,9 +524,9 @@ year,round,pick,player,position,school
 1990,2,47,Derek Strong,F,Xavier
 1990,2,48,Cedric Ceballos,F,Cal State Fullerton
 1990,2,49,Phil Henderson,SG,Duke
-1990,2,50,Miloö Babi?,C,Tennessee Tech
+1990,2,50,Milo≈° Babi?,C,Tennessee Tech
 1990,2,51,Tony Smith,G,Marquette
-1990,2,52,Stefano Rusconi,PF/C,Ranger Varese†
+1990,2,52,Stefano Rusconi,PF/C,Ranger Varese¬†
 1990,2,53,Abdul Shamsid-Deen,C,Providence
 1990,2,54,Sean Higgins,G/F,Michigan
 1991,1,1,"Johnson, Larry",PF,UNLV
@@ -572,44 +572,44 @@ year,round,pick,player,position,school
 1991,2,41,"Green, Sean",F/G,Iona
 1991,2,42,"Hood, Steve",SF,James Madison
 1991,2,43,"Strothers, Lamont",G,Christopher Newport
-1991,2,44,"Teher·n, ¡lvaro",C,Houston
+1991,2,44,"Teher√°n, √Ålvaro",C,Houston
 1991,2,45,"Phills, Bobby",SG,Southern
 1991,2,46,"Dumas, Richard",F,Hapoel Holon
 1991,2,47,"Hughes, Keith",PF,Rutgers
 1991,2,48,"Austin, Isaac",C,Arizona State
 1991,2,49,"Sutton, Greg",G,Oral Roberts
 1991,2,50,"Wright, Joey",SG,Texas
-1991,2,51,"Tabak, éan",C,KK Split
+1991,2,51,"Tabak, ≈Ωan",C,KK Split
 1991,2,52,"Jones, Anthony",SF,Oral Roberts
 1991,2,53,"McDade, Von",SG,Milwaukee
 1991,2,54,"Kennedy, Marcus",PF,Eastern Michigan
-1992,1,1,Shaquille O'Neal,C,LSU†
-1992,1,2,Alonzo Mourning,C,Georgetown†
-1992,1,3,Christian Laettner,PF,Duke†
-1992,1,4,Jimmy Jackson,SG,Ohio State†
-1992,1,5,LaPhonso Ellis,PF,Notre Dame†
-1992,1,6,Tom Gugliotta,PF,NC State†
-1992,1,7,Walt Williams,SF,Maryland†
-1992,1,8,Todd Day,SG,Arkansas†
-1992,1,9,Clarence Weatherspoon,PF,Southern Miss†
-1992,1,10,Adam Keefe,PF,Stanford†
-1992,1,11,Robert Horry,SF,Alabama†
-1992,1,12,Harold Miner,SG,USC†
-1992,1,13,Bryant Stith,SG,Virginia†
-1992,1,14,Malik Sealy,SF,St. John's†
-1992,1,15,Anthony Peeler,SG,Missouri†
-1992,1,16,Randy Woods,PG,La Salle†
-1992,1,17,Doug Christie,SG,Pepperdine†
-1992,1,18,Tracy Murray,SF,UCLA†
-1992,1,19,Don MacLean,PF,UCLA†
-1992,1,20,Hubert Davis,SG,North Carolina†
-1992,1,21,Jon Barry,SG,Georgia Tech†
-1992,1,22,Oliver Miller,C,Arkansas†
-1992,1,23,Lee Mayberry,PG,Arkansas†
-1992,1,24,Latrell Sprewell,SG,Alabama†
-1992,1,25,Elmore Spencer,C,UNLV†
-1992,1,26,Dave Johnson,SF,Syracuse†
-1992,1,27,Byron Houston,PF,Oklahoma State†
+1992,1,1,Shaquille O'Neal,C,LSU¬†
+1992,1,2,Alonzo Mourning,C,Georgetown¬†
+1992,1,3,Christian Laettner,PF,Duke¬†
+1992,1,4,Jimmy Jackson,SG,Ohio State¬†
+1992,1,5,LaPhonso Ellis,PF,Notre Dame¬†
+1992,1,6,Tom Gugliotta,PF,NC State¬†
+1992,1,7,Walt Williams,SF,Maryland¬†
+1992,1,8,Todd Day,SG,Arkansas¬†
+1992,1,9,Clarence Weatherspoon,PF,Southern Miss¬†
+1992,1,10,Adam Keefe,PF,Stanford¬†
+1992,1,11,Robert Horry,SF,Alabama¬†
+1992,1,12,Harold Miner,SG,USC¬†
+1992,1,13,Bryant Stith,SG,Virginia¬†
+1992,1,14,Malik Sealy,SF,St. John's¬†
+1992,1,15,Anthony Peeler,SG,Missouri¬†
+1992,1,16,Randy Woods,PG,La Salle¬†
+1992,1,17,Doug Christie,SG,Pepperdine¬†
+1992,1,18,Tracy Murray,SF,UCLA¬†
+1992,1,19,Don MacLean,PF,UCLA¬†
+1992,1,20,Hubert Davis,SG,North Carolina¬†
+1992,1,21,Jon Barry,SG,Georgia Tech¬†
+1992,1,22,Oliver Miller,C,Arkansas¬†
+1992,1,23,Lee Mayberry,PG,Arkansas¬†
+1992,1,24,Latrell Sprewell,SG,Alabama¬†
+1992,1,25,Elmore Spencer,C,UNLV¬†
+1992,1,26,Dave Johnson,SF,Syracuse¬†
+1992,1,27,Byron Houston,PF,Oklahoma State¬†
 1992,2,28,Marlon Maxey,PF,UTEP
 1992,2,29,P. J. Brown,PF,Louisiana Tech
 1992,2,30,Sean Rooks,PF/C,Arizona
@@ -617,7 +617,7 @@ year,round,pick,player,position,school
 1992,2,32,Brent Price,G,Oklahoma
 1992,2,33,Corey Williams,G,Oklahoma State
 1992,2,34,Chris Smith,G,Connecticut
-1992,2,35,Tony Bennett,G,WisconsinñGreen Bay
+1992,2,35,Tony Bennett,G,Wisconsin‚ÄìGreen Bay
 1992,2,36,Duane Cooper,G,USC
 1992,2,37,Isaiah Morris,F,Arkansas
 1992,2,38,Elmer Bennett,G,Notre Dame
@@ -625,7 +625,7 @@ year,round,pick,player,position,school
 1992,2,40,Steve Rogers,SG/SF,Alabama State
 1992,2,41,Popeye Jones,F,Murray State
 1992,2,42,Matt Geiger,C,Georgia Tech
-1992,2,43,Predrag Danilovi?,SG,"KK Partizan,†Yugoslavia"
+1992,2,43,Predrag Danilovi?,SG,"KK Partizan,¬†Yugoslavia"
 1992,2,44,Henry Williams,G,UNC-Charlotte
 1992,2,45,Chris King,F,Wake Forest
 1992,2,46,Robert Werdann,C,St. John's
@@ -682,7 +682,7 @@ year,round,pick,player,position,school
 1993,2,43,"Grant, Josh",PF,Utah
 1993,2,44,"Holcombe, Alex",C,Baylor
 1993,2,45,"Russell, Bryon",SF,Long Beach State
-1993,2,46,"Petruöka, Richard",C,UCLA
+1993,2,46,"Petru≈°ka, Richard",C,UCLA
 1993,2,47,"Whitney, Chris",PG,Clemson
 1993,2,48,"Thompson, Kevin",C,NC State
 1993,2,49,"Buford, Mark",C,Mississippi Valley State
@@ -744,7 +744,7 @@ year,round,pick,player,position,school
 1994,2,51,"Funderburke, Lawrence",PF,Ohio State
 1994,2,52,"Goldwire, Anthony",PG,Houston
 1994,2,53,"Burditt, Albert",PF,Texas
-1994,2,54,"Rebra?a, éeljko",C,KK Partizan
+1994,2,54,"Rebra?a, ≈Ωeljko",C,KK Partizan
 1995,1,1,"Smith, Joe",PF,Maryland
 1995,1,2,"McDyess, Antonio",PF,Alabama
 1995,1,3,"Stackhouse, Jerry",SG,North Carolina
@@ -822,12 +822,12 @@ year,round,pick,player,position,school
 1996,1,17,"O'Neal, Jermaine",F/C,Eau Claire HS 
 1996,1,18,"Wallace, John",F,Syracuse
 1996,1,19,"McCarty, Walter",F,Kentucky
-1996,1,20,"Ilgauskas, éydr?nas",C,Atletas Kaunas
+1996,1,20,"Ilgauskas, ≈Ωydr?nas",C,Atletas Kaunas
 1996,1,21,"Jones, Dontae",F,Mississippi State
 1996,1,22,"Rogers, Roy",F,Alabama
 1996,1,23,"Rentzias, Efthimios",C,PAOK
 1996,1,24,"Fisher, Derek",G,Arkansas-Little Rock
-1996,1,25,"M¸¸rsepp, Martin",F,Tallinna Kalev
+1996,1,25,"M√º√ºrsepp, Martin",F,Tallinna Kalev
 1996,1,26,"Williams, Jerome",F,Georgetown
 1996,1,27,"Evans, Brian",F,Indiana
 1996,1,28,"Lauderdale, Priest",C,Peristeri
@@ -855,7 +855,7 @@ year,round,pick,player,position,school
 1996,2,50,"Bell, Terrell",C,Georgia
 1996,2,51,"Robinson, Chris",G,Western Kentucky
 1996,2,52,"Pope, Mark",F,Kentucky
-1996,2,53,"Nordgaard, Jeff",F,WisconsinñGreen Bay
+1996,2,53,"Nordgaard, Jeff",F,Wisconsin‚ÄìGreen Bay
 1996,2,54,"Anderson, Shandon",F,Georgia
 1996,2,55,"Henderson, Ronnie",G,LSU
 1996,2,56,"Geary, Reggie",G,Arizona
@@ -917,7 +917,7 @@ year,round,pick,player,position,school
 1997,2,54,"Blount, Mark",C,Pittsburgh
 1997,2,55,"Pepper, Ben",C,Newcastle Falcons
 1997,2,56,"Erdmann, Nate",SG,Oklahoma
-1997,2,57,"DueÒas, Roberto",C,FC Barcelona
+1997,2,57,"Due√±as, Roberto",C,FC Barcelona
 1998,1,1,"Olowokandi, Michael",C,Pacific
 1998,1,2,"Bibby, Mike",PG,Arizona
 1998,1,3,"LaFrentz, Raef",C/F,Kansas
@@ -926,22 +926,22 @@ year,round,pick,player,position,school
 1998,1,6,"Traylor, Robert",F/C,Michigan
 1998,1,7,"Williams, Jason",PG,Florida
 1998,1,8,"Hughes, Larry",SG,Saint Louis
-1998,1,9,"Nowitzki, Dirk",PF,DJK W¸rzburg
+1998,1,9,"Nowitzki, Dirk",PF,DJK W√ºrzburg
 1998,1,10,"Pierce, Paul",G/F,Kansas
 1998,1,11,"Wells, Bonzi",G/F,Ball State
 1998,1,12,"Doleac, Michael",C,Utah
 1998,1,13,"Clark, Keon",F/C,UNLV
 1998,1,14,"Dickerson, Michael",SG,Arizona
 1998,1,15,"Harpring, Matt",F/G,Georgia Tech
-1998,1,16,"Drew, Bryce",PG,ValparaÌso
+1998,1,16,"Drew, Bryce",PG,Valpara√≠so
 1998,1,17,"Nesterovi?, Radoslav",C,Kinder Bologna
-1998,1,18,"T¸rkcan, Mirsad",PF,Efes Pilsen
+1998,1,18,"T√ºrkcan, Mirsad",PF,Efes Pilsen
 1998,1,19,"Garrity, Pat",PF,Notre Dame
 1998,1,20,"McLeod, Roshown",SF,Duke
 1998,1,21,"Davis, Ricky",G/F,Iowa
 1998,1,22,"Skinner, Brian",F/C,Baylor
 1998,1,23,"Lue, Tyronn",PG,Nebraska
-1998,1,24,"LÛpez, Felipe",SG,St. John's
+1998,1,24,"L√≥pez, Felipe",SG,St. John's
 1998,1,25,"Harrington, Al",F,St. Patrick's High School
 1998,1,26,"Jacobson, Sam",SG,Minnesota
 1998,1,27,"Stepania, Vladimir",C,Olimpija Ljubljana
@@ -952,7 +952,7 @@ year,round,pick,player,position,school
 1998,2,32,"Lewis, Rashard",PF,Alief Elsik HS
 1998,2,33,"McCoy, Jelani",F/C,UCLA
 1998,2,34,"Williams, Shammond",PG,North Carolina
-1998,2,35,"äundov, Bruno",C,Split
+1998,2,35,"≈†undov, Bruno",C,Split
 1998,2,36,"James, Jerome",C,Florida A&M
 1998,2,37,"Shaw, Casey",C,Toledo
 1998,2,38,"Johnson, DeMarco",PF,Charlotte
@@ -990,7 +990,7 @@ year,round,pick,player,position,school
 1999,1,12,"Radojevi?, Aleksandar",C,Barton County CC
 1999,1,13,"Maggette, Corey",SF/SG,Duke
 1999,1,14,"Avery, William",PG,Duke
-1999,1,15,"Weis, FrÈdÈric",C,Limoges
+1999,1,15,"Weis, Fr√©d√©ric",C,Limoges
 1999,1,16,"Artest, Ron",SF,St. John's
 1999,1,17,"Bowdler, Cal",PF,Old Dominion
 1999,1,18,"Posey, James",SG/SF,Xavier
@@ -1032,7 +1032,7 @@ year,round,pick,player,position,school
 1999,2,54,"Levett, Melvin",SG,Cincinnati
 1999,2,55,"Clack, Kris",G,Texas
 1999,2,56,"Young, Tim",C,Stanford
-1999,2,57,"GinÛbili, Manu",SG,Viola Reggio Calabria
+1999,2,57,"Gin√≥bili, Manu",SG,Viola Reggio Calabria
 1999,2,58,"Lucas, Eddie",G,Virginia Tech
 2000,1,1,"Martin, Kenyon",PF,Cincinnato (Sr.)
 2000,1,2,"Swift, Stromile",PF/C,LSU
@@ -1060,7 +1060,7 @@ year,round,pick,player,position,school
 2000,1,24,"Bagari?, Dalibor",C,Benston Zagreb
 2000,1,25,"Tsakalidis, Iakovos ""Jake""",C,AEK
 2000,1,26,"N'Diaye, Mamadou",C,Auburn
-2000,1,27,"Brezec, Primoû",C,Union Olimpija
+2000,1,27,"Brezec, Primo≈æ",C,Union Olimpija
 2000,1,28,"Barkley, Erick",PG,St. John's
 2000,1,29,"Madsen, Mark",PF,Stanford
 2000,2,30,"Jari?, Marko",G,Paf Bologna
@@ -1071,11 +1071,11 @@ year,round,pick,player,position,school
 2000,2,35,"Smith, Mike",F,Louisiana-Monroe
 2000,2,36,"Samake, Soumaila",C,Cincinnati Stuff
 2000,2,37,"House, Eddie",SG,Arizona State
-2000,2,38,"N·jera, Eduardo",PF,Oklahoma
+2000,2,38,"N√°jera, Eduardo",PF,Oklahoma
 2000,2,39,"Postell, Lavor",SG,St. John's
 2000,2,40,Mottola,SF/PF,Utah
 2000,2,41,"Carrawell, Chris",SG,Duke
-2000,2,42,"Oyedeji, Olumide",PF,W¸rzburg
+2000,2,42,"Oyedeji, Olumide",PF,W√ºrzburg
 2000,2,43,"Redd, Michael",SG,Ohio State
 2000,2,44,"Cardinal, Brian",PF,Purdue
 2000,2,45,"Smith, Jabari",C,LSU
@@ -1115,7 +1115,7 @@ year,round,pick,player,position,school
 2001,1,21,"Forte, Joseph",SG,North Carolina
 2001,1,22,"Sasser, Jeryl",SG,SMU
 2001,1,23,"Armstrong, Brandon",SG,Pepperdine
-2001,1,24,"LÛpez, Ra˙l",PG,Real Madrid
+2001,1,24,"L√≥pez, Ra√∫l",PG,Real Madrid
 2001,1,25,"Wallace, Gerald",SF,Alabama
 2001,1,26,"Dalembert, Samuel",C,Seton Hall
 2001,1,27,"Tinsley, Jamaal",PG,Iowa State
@@ -1156,7 +1156,7 @@ year,round,pick,player,position,school
 2002,1,4,"Gooden, Drew",PF/C,Kansas
 2002,1,5,"Tskitishvili, Nikoloz",PF/C,Benetton Treviso
 2002,1,6,"Wagner, Dajuan",PG,Memphis
-2002,1,7,", NenÍ",C/PF,Vasco da Gama
+2002,1,7,", Nen√™",C/PF,Vasco da Gama
 2002,1,8,"Wilcox, Chris",PF/C,Maryland
 2002,1,9,"Stoudemire, Amar'e",PF/C,Cypress Creek HS
 2002,1,10,"Butler, Caron",SF,Connecticut
@@ -1164,8 +1164,8 @@ year,round,pick,player,position,school
 2002,1,12,"Ely, Melvin",C/PF,Fresno State
 2002,1,13,"Haislip, Marcus",PF,Tennessee
 2002,1,14,"Jones, Fred",SG,Oregon
-2002,1,15,"Nachbar, Boötjan",SF/PF,Benetton Treviso
-2002,1,16,"Welsch, Ji?Ì",SG/SF,Union Olimpija
+2002,1,15,"Nachbar, Bo≈°tjan",SF/PF,Benetton Treviso
+2002,1,16,"Welsch, Ji?√≠",SG/SF,Union Olimpija
 2002,1,17,"Dixon, Juan",PG,Maryland
 2002,1,18,"Borchardt, Curtis",C,Stanford
 2002,1,19,"Humphrey, Ryan",PF,Notre Dame
@@ -1185,7 +1185,7 @@ year,round,pick,player,position,school
 2002,2,33,"Yarbrough, Vincent",SF,Tennessee
 2002,2,34,"Gadzuric, Dan",C,UCLA
 2002,2,35,"Boozer, Carlos",PF,Duke
-2002,2,36,"Vujani?, Miloö",PG,Partizan Belgrade
+2002,2,36,"Vujani?, Milo≈°",PG,Partizan Belgrade
 2002,2,37,"Andersen, David",C,Virtus Bologna
 2002,2,38,"Maddox, Tito",PG,Fresno State
 2002,2,39,"Grizzard, Rod",SG,Alabama
@@ -1204,12 +1204,12 @@ year,round,pick,player,position,school
 2002,2,52,"Taylor, Marcus",PG,Michigan State
 2002,2,53,"Butler, Rasual",SF,La Salle
 2002,2,54,"Slay, Tamar",SG,Marshall
-2002,2,55,"äekularac, Mladen",SG,FMP éeleznik
-2002,2,56,"Scola, Luis",PF,TAU Cer·mica
+2002,2,55,"≈†ekularac, Mladen",SG,FMP ≈Ωeleznik
+2002,2,56,"Scola, Luis",PF,TAU Cer√°mica
 2002,2,57,"Holcomb, Randy",PF,San Diego State
 2002,2,58,"Edwards, Corsley",PF,Central Connecticut
-2003,1,1,", LeBron James",SF,St. VincentñSt. Mary HS
-2003,1,2,"Mili?i?, Darko",C,Hemofarm Vröac
+2003,1,1,", LeBron James",SF,St. Vincent‚ÄìSt. Mary HS
+2003,1,2,"Mili?i?, Darko",C,Hemofarm Vr≈°ac
 2003,1,3,"Anthony, Carmelo",SF,Syracuse
 2003,1,4,"Bosh, Chris",PF/C,Georgia Tech
 2003,1,5,"Wade, Dwyane",SG,Marquette
@@ -1218,13 +1218,13 @@ year,round,pick,player,position,school
 2003,1,8,"Ford, T. J.",PG,Texas
 2003,1,9,"Sweetney, Michael",PF,Georgetown
 2003,1,10,"Hayes, Jarvis",F/G,Georgia
-2003,1,11,"PiÈtrus, MickaÎl",G/F,Pau-Orthez
+2003,1,11,"Pi√©trus, Micka√´l",G/F,Pau-Orthez
 2003,1,12,"Collison, Nick",PF,Kansas
 2003,1,13,"Banks, Marcus",PG,UNLV
 2003,1,14,"Ridnour, Luke",PG,Oregon
 2003,1,15,"Gaines, Reece",F/G,Louisville
 2003,1,16,"Bell, Troy",PG,Boston College
-2003,1,17,"?abarkapa, éarko",SF,Budu?nost Podgorica
+2003,1,17,"?abarkapa, ≈Ωarko",SF,Budu?nost Podgorica
 2003,1,18,"West, David",PF,Xavier
 2003,1,19,"Pavlovi?, Sasha",F/G,Budu?nost Podgorica
 2003,1,20,"Jones, Dahntay",SG,Duke
@@ -1246,10 +1246,10 @@ year,round,pick,player,position,school
 2003,2,36,"Austin, Mario",PF,Mississippi State
 2003,2,37,"Hansen, Travis",SG,BYU
 2003,2,38,"Blake, Steve",PG,Maryland
-2003,2,39,"Vraneö, Slavko",C,Budu?nost Podgorica
+2003,2,39,"Vrane≈°, Slavko",C,Budu?nost Podgorica
 2003,2,40,"Zimmerman, Derrick",PG,Mississippi State
 2003,2,41,"Green, Willie",SG,Detroit
-2003,2,42,"Pachulia, Zaza",PF,‹lkerspor
+2003,2,42,"Pachulia, Zaza",PF,√úlkerspor
 2003,2,43,"Bogans, Keith",SG,Kentucky
 2003,2,44,"Badiane, Malick",PF,Langen
 2003,2,45,"Bonner, Matt",F,Florida
@@ -1261,7 +1261,7 @@ year,round,pick,player,position,school
 2003,2,51,"Korver, Kyle",SG,Creighton
 2003,2,52,"van de Hare, Remon",C,FC Barcelona
 2003,2,53,"Smith, Tommy",PF,Arizona State
-2003,2,54,"Sinanovi?, Nedûad",C,Brotnjo
+2003,2,54,"Sinanovi?, Ned≈æad",C,Brotnjo
 2003,2,55,"Rickert, Rick",PF,Minnesota
 2003,2,56,"Hunter, Brandon",PF,Ohio
 2003,2,57,"Yuyang, Xue",C,Hong Kong Flying Dragons
@@ -1273,10 +1273,10 @@ year,round,pick,player,position,school
 2004,1,5,"Harris, Devin",PG,Wisconsin
 2004,1,6,"Childress, Josh",G/F,Stanford
 2004,1,7,"Deng, Luol",SF,Duke
-2004,1,8,"Ara˙jo, Rafael",C,BYU
+2004,1,8,"Ara√∫jo, Rafael",C,BYU
 2004,1,9,"Iguodala, Andre",SF,Arizona
 2004,1,10,"Jackson, Luke",SF,Oregon
-2004,1,11,"Biedri?ö, Andris",F/C,Skonto
+2004,1,11,"Biedri?≈°, Andris",F/C,Skonto
 2004,1,12,"Swift, Robert",C,Bakersfield HS
 2004,1,13,"Telfair, Sebastian",PG,Lincoln HS
 2004,1,14,"Humphries, Kris",PF,Minnesota
@@ -1292,11 +1292,11 @@ year,round,pick,player,position,school
 2004,1,24,"West, Delonte",PG,Saint Joseph's
 2004,1,25,"Allen, Tony",SG,Oklahoma State
 2004,1,26,"Martin, Kevin",SG,Western Carolina
-2004,1,27,"Vuja?i?, Saöa",SG,Snaidero Udine
+2004,1,27,"Vuja?i?, Sa≈°a",SG,Snaidero Udine
 2004,1,28,"Udrih, Beno",PG,Breil Milano
 2004,1,29,"Harrison, David",C,Colorado
 2004,1,,Forfeited Pick,None,None
-2004,2,30,"Varej„o, Anderson",C,FC Barcelona
+2004,2,30,"Varej√£o, Anderson",C,FC Barcelona
 2004,2,31,"Vroman, Jackson",C,Iowa State
 2004,2,32,"Ramos, Peter John",C,Caguas
 2004,2,33,"Chalmers, Lionel",PG,Xavier
@@ -1336,7 +1336,7 @@ year,round,pick,player,position,school
 2005,1,8,"Frye, Channing",C,Arizona
 2005,1,9,"Diogu, Ike",F,Arizona State
 2005,1,10,"Bynum, Andrew",C,St. Joseph HS
-2005,1,11,"V·zquez, Fran",F/C,Unicaja M·laga
+2005,1,11,"V√°zquez, Fran",F/C,Unicaja M√°laga
 2005,1,12,"Korolev, Yaroslav",F,CSKA Moscow
 2005,1,13,"May, Sean",F,North Carolina
 2005,1,14,"McCants, Rashad",G,North Carolina
@@ -1348,7 +1348,7 @@ year,round,pick,player,position,school
 2005,1,20,"Hodge, Julius",G,NC State
 2005,1,21,"Robinson, Nate",G,Washington
 2005,1,22,"Jack, Jarrett",G,Georgia Tech
-2005,1,23,"GarcÌa, Francisco",G/F,Louisville
+2005,1,23,"Garc√≠a, Francisco",G/F,Louisville
 2005,1,24,"Head, Luther",G,Illinois
 2005,1,25,"Petro, Johan",C,Pau-Orthez
 2005,1,26,"Maxiell, Jason",F,Cincinnati
@@ -1360,8 +1360,8 @@ year,round,pick,player,position,school
 2005,2,32,"Ewing, Daniel",G,Duke
 2005,2,33,"Bass, Brandon",F,LSU
 2005,2,34,"Miles, C. J.",G,Skyline HS
-2005,2,35,"S·nchez, Ricky",F,IMG Academy
-2005,2,36,"?lyasova, Ersan",F,‹lkerspor
+2005,2,35,"S√°nchez, Ricky",F,IMG Academy
+2005,2,36,"?lyasova, Ersan",F,√úlkerspor
 2005,2,37,"Turiaf, Ronny",F,Gonzaga
 2005,2,38,"Diener, Travis",G,Marquette
 2005,2,39,"Wafer, Von",G,Florida State
@@ -1369,11 +1369,11 @@ year,round,pick,player,position,school
 2005,2,41,"Uki?, Roko",G,KK Split
 2005,2,42,"Taft, Chris",F,Pittsburgh
 2005,2,43,"Ili?, Mile",C,KK Reflex
-2005,2,44,"Andriuökevi?ius, Martynas",C,éalgiris Kaunas
+2005,2,44,"Andriu≈°kevi?ius, Martynas",C,≈Ωalgiris Kaunas
 2005,2,45,"Williams, Louis",SG,South Gwinnett HS
 2005,2,46,"Lorbek, Erazem",F,Climamio Bologna
 2005,2,47,"Wright, Bracey",G,Indiana
-2005,2,48,"Gelabale, MickaÎl",F,Real Madrid
+2005,2,48,"Gelabale, Micka√´l",F,Real Madrid
 2005,2,49,"Blatche, Andray",F,South Kent School
 2005,2,50,"Gomes, Ryan",F,Providence
 2005,2,51,"Whaley, Robert",C,Walsh
@@ -1382,8 +1382,8 @@ year,round,pick,player,position,school
 2005,2,54,"Thompson, Dijon",G/F,UCLA
 2005,2,55,"Roberts, Lawrence",F,Mississippi State
 2005,2,56,"Johnson, Amir",F,Westchester HS
-2005,2,57,"Gortat, Marcin",F/C,RheinEnergie Kˆln
-2005,2,58,"Slokar, Uroö",F,Snaidero Udine
+2005,2,57,"Gortat, Marcin",F/C,RheinEnergie K√∂ln
+2005,2,58,"Slokar, Uro≈°",F,Snaidero Udine
 2005,2,59,"Akyol, Cenk",G,Efes Pilsen
 2005,2,60,"Acker, Alex",G,Pepperdine
 2006,1,1,"Bargnani, Andrea",PF,Benetton Treviso
@@ -1412,7 +1412,7 @@ year,round,pick,player,position,school
 2006,1,24,"Lowry, Kyle",PG,Villanova
 2006,1,25,"Brown, Shannon",G,Michigan State
 2006,1,26,"Farmar, Jordan",G,UCLA
-2006,1,27,"RodrÌguez, Sergio",G,Adecco Estudiantes
+2006,1,27,"Rodr√≠guez, Sergio",G,Adecco Estudiantes
 2006,1,28,"Ager, Maurice",G,Michigan State
 2006,1,29,"Collins, Mardy",G,Temple
 2006,1,30,"Freeland, Joel",F,Gran Canaria
@@ -1428,7 +1428,7 @@ year,round,pick,player,position,school
 2006,2,40,"Brown, Denham",G,Connecticut
 2006,2,41,"Augustine, James",F,Illinois
 2006,2,42,"Gibson, Daniel",G,Texas
-2006,2,43,"Vinicius, Marcus",F,Objetivo S„o Carlos
+2006,2,43,"Vinicius, Marcus",F,Objetivo S√£o Carlos
 2006,2,44,"Eliyahu, Lior",F,Hapoel Galil Elyon
 2006,2,45,"Johnson, Alexander",F,Florida State
 2006,2,46,"Brown, Dee",G,Illinois
@@ -1436,7 +1436,7 @@ year,round,pick,player,position,school
 2006,2,48,"Veremeenko, Vladimir",F,Dynamo St. Petersburg
 2006,2,49,"Powe, Leon",F,California
 2006,2,50,"Hollins, Ryan",C,UCLA
-2006,2,51,"Samb, Cheikh",C,WTC Cornell‡
+2006,2,51,"Samb, Cheikh",C,WTC Cornell√†
 2006,2,52,"Diaz, Guillermo",G,Miami (FL)
 2006,2,53,"Halperin, Yotam",G,Union Olimpija
 2006,2,54,"Adams, Hassan",G,Arizona
@@ -1469,11 +1469,11 @@ year,round,pick,player,position,school
 2007,1,21,"Cook, Daequan",SG,Ohio State
 2007,1,22,"Dudley, Jared",SF,Boston College
 2007,1,23,"Chandler, Wilson",SF,DePaul
-2007,1,24,"Fern·ndez, Rudy",SG,Joventut Badalona
+2007,1,24,"Fern√°ndez, Rudy",SG,Joventut Badalona
 2007,1,25,"Almond, Morris",SG,Rice
 2007,1,26,"Brooks, Aaron",PG,Oregon
 2007,1,27,"Afflalo, Arron",SG,UCLA
-2007,1,28,"Splitter, Tiago",C,TAU Cer·mica
+2007,1,28,"Splitter, Tiago",C,TAU Cer√°mica
 2007,1,29,"Tucker, Alando",SF,Wisconsin
 2007,1,30,"Koponen, Petteri",SG,Tapiolan Honka
 2007,2,31,"Landry, Carl",PF,Purdue
@@ -1484,7 +1484,7 @@ year,round,pick,player,position,school
 2007,2,36,"Davidson, Jermareo",PF,Alabama
 2007,2,37,"McRoberts, Josh",PF,Duke
 2007,2,38,"Fesenko, Kyrylo",C,SK Cherkassy
-2007,2,39,"Bara?, Stanko",C,äiroki Brijeg
+2007,2,39,"Bara?, Stanko",C,≈†iroki Brijeg
 2007,2,40,"Sun, Yue",SF,Beijing Olympians
 2007,2,41,"Richard, Chris",PF,Florida
 2007,2,42,"Byars, Derrick",SG,Vanderbilt
@@ -1525,7 +1525,7 @@ year,round,pick,player,position,school
 2008,1,17,"Hibbert, Roy",C,Georgetown
 2008,1,18,"McGee, Javale",C,Nevada
 2008,1,19,"Hickson, J. J.",PF,NC State
-2008,1,20,"AjinÁa, Alexis",C,HyËres-Toulon
+2008,1,20,"Ajin√ßa, Alexis",C,Hy√®res-Toulon
 2008,1,21,"Anderson, Ryan",PF,California
 2008,1,22,"Lee, Courtney",SG,Western Kentucky
 2008,1,23,"Koufos, Kosta",C,Ohio State
@@ -1533,7 +1533,7 @@ year,round,pick,player,position,school
 2008,1,25,"Batum, Nicolas",SF,Le Mans
 2008,1,26,"Hill, George",PG,IUPUI
 2008,1,27,"Arthur, Darrell",PF,Kansas
-2008,1,28,"Greene, DontÈ",SF,Syracuse
+2008,1,28,"Greene, Dont√©",SF,Syracuse
 2008,1,29,"White, D. J.",PF,Indiana
 2008,1,30,"Giddens, J. R.",SG,New Mexico
 2008,2,31,"Pekovi?, Nikola",C,Panathinaikos
@@ -1541,7 +1541,7 @@ year,round,pick,player,position,school
 2008,2,33,"Dorsey, Joey",PF,Memphis
 2008,2,34,"Chalmers, Mario",PG,Kansas
 2008,2,35,"Jordan, DeAndre",C,Texas A&M
-2008,2,36,"A??k, ÷mer",C,FenerbahÁe ‹lker
+2008,2,36,"A??k, √ñmer",C,Fenerbah√ße √úlker
 2008,2,37,"Mbah a Moute, Luc",SF,UCLA
 2008,2,38,"Weaver, Kyle",SG,Washington State
 2008,2,39,"Weems, Sonny",SG,Arkansas
@@ -1565,7 +1565,7 @@ year,round,pick,player,position,school
 2008,2,57,"Gist, James",PF,Maryland
 2008,2,58,"Crawford, Joe",SG,Kentucky
 2008,2,59,"Washington, Deron",SF,Virginia Tech
-2008,2,60,"Erden, Semih",C,FenerbahÁe ‹lker
+2008,2,60,"Erden, Semih",C,Fenerbah√ße √úlker
 2009,1,1,"Griffin, Blake",PF,Oklahoma
 2009,1,2,"Thabeet, Hasheem",C,Connecticut
 2009,1,3,"Harden, James",SG,Arizona State
@@ -1587,7 +1587,7 @@ year,round,pick,player,position,school
 2009,1,19,"Teague, Jeff",PG,Wake Forest
 2009,1,20,"Maynor, Eric",PG,VCU
 2009,1,21,"Collison, Darren",PG,UCLA
-2009,1,22,"Claver, VÌctor",SF,Pamesa Valencia
+2009,1,22,"Claver, V√≠ctor",SF,Pamesa Valencia
 2009,1,23,"Casspi, Omri",SF,Maccabi Tel Aviv
 2009,1,24,"Mullens, Byron",C,Ohio State
 2009,1,25,"Beaubois, Rodrigue",PG,Cholet
@@ -1622,7 +1622,7 @@ year,round,pick,player,position,school
 2009,2,54,"Vaden, Robert",SG,UAB
 2009,2,55,"Mills, Patty",PG,Saint Mary's
 2009,2,56,"Nivins, Ahmad",PF,Saint Joseph's
-2009,2,57,"Preldûi?, Emir",PF,FenerbahÁe ‹lker
+2009,2,57,"Preld≈æi?, Emir",PF,Fenerbah√ße √úlker
 2009,2,58,"Hudson, Lester",PG,Tennessee-Martin
 2009,2,59,"Elonu, Chinemelu",PF,Texas A&M
 2009,2,60,"Dozier, Robert",SF,Memphis
@@ -1642,7 +1642,7 @@ year,round,pick,player,position,school
 2010,1,14,"Patterson, Patrick",PF,Kentucky
 2010,1,15,"Sanders, Larry",C,VCU
 2010,1,16,"Babbitt, Luke",SF,Nevada
-2010,1,17,"SÈraphin, KÈvin",PF,Cholet Basket
+2010,1,17,"S√©raphin, K√©vin",PF,Cholet Basket
 2010,1,18,"Bledsoe, Eric",PG,Kentucky
 2010,1,19,"Bradley, Avery",SG,Texas
 2010,1,20,"Anderson, James",SG,Oklahoma State
@@ -1653,10 +1653,10 @@ year,round,pick,player,position,school
 2010,1,25,"Jones, Dominique",SG,USF
 2010,1,26,"Pondexter, Quincy",SF,Washington
 2010,1,27,"Crawford, Jordan",SG,Xavier
-2010,1,28,"V·squez, Greivis",PG,Maryland
+2010,1,28,"V√°squez, Greivis",PG,Maryland
 2010,1,29,"Orton, Daniel",C,Kentucky
 2010,1,30,"Hayward, Lazar",SF,Marquette
-2010,2,31,"Pleiﬂ, Tibor",C,Brose Bamberg
+2010,2,31,"Plei√ü, Tibor",C,Brose Bamberg
 2010,2,32,"Pittman, Dexter",C,Texas
 2010,2,33,"Whiteside, Hassan",C,Marshall
 2010,2,34,"Johnson, Armon",PG,Nevada
@@ -1670,7 +1670,7 @@ year,round,pick,player,position,school
 2010,2,42,"Butler, Da'Sean",SF,West Virginia
 2010,2,43,"Ebanks, Devin",SF,West Virginia
 2010,2,44,"Jordan, Jerome",C,Tulsa
-2010,2,45,"Prestes, Paul„o",C,CB Murcia
+2010,2,45,"Prestes, Paul√£o",C,CB Murcia
 2010,2,46,"Lawal, Gani",PF,Georgia Tech
 2010,2,47,"Gallon, Tiny",PF,Oklahoma
 2010,2,48,"Williams, Latavious",SF,Tulsa 66ers
@@ -1691,7 +1691,7 @@ year,round,pick,player,position,school
 2011,1,3,"Kanter, Enes",C,Kentucky
 2011,1,4,"Thompson, Tristan",C/PF,Texas
 2011,1,5,"Valan?i?nas, Jonas",C,Lietuvos rytas Vilnius
-2011,1,6,"Vesel˝, Jan",PF,Partizan Belgrade
+2011,1,6,"Vesel√Ω, Jan",PF,Partizan Belgrade
 2011,1,7,"Biyombo, Bismack",C,Fuenlabrada
 2011,1,8,"Knight, Brandon",PG,Kentucky
 2011,1,9,"Walker, Kemba",PG,Connecticut
@@ -1744,7 +1744,7 @@ year,round,pick,player,position,school
 2011,2,56,"Maduabum, Chukwudiebere",PF,Bakersfield Jam
 2011,2,57,"Ngombo, Tanguy",SF,Al Rayyan
 2011,2,58,"Majok, Ater",PF,Gold Coast Blaze
-2011,2,59,"Hanga, ¡d·m",SG,Albacomp
+2011,2,59,"Hanga, √Åd√°m",SG,Albacomp
 2011,2,60,"Thomas, Isaiah",PG,Washington
 2012,1,1,"Davis, Anthony",PF/C,Kentucky
 2012,1,2,"Kidd-Gilchrist, Michael",SF,Kentucky
@@ -1777,7 +1777,7 @@ year,round,pick,player,position,school
 2012,1,29,"Teague, Marquis",PG,Kentucky
 2012,1,30,"Ezeli, Festus",C,Vanderbilt
 2012,2,31,"Taylor, Jeffery",SF,Vanderbilt
-2012,2,32,"Satoransk˝, Tom·ö",SG,Banca CÌvica Sevilla
+2012,2,32,"Satoransk√Ω, Tom√°≈°",SG,Banca C√≠vica Sevilla
 2012,2,33,"James, Bernard",C,Florida St.
 2012,2,34,"Crowder, Jae",SF,Marquette
 2012,2,35,"Green, Draymond",PF,Michigan St.
@@ -1797,7 +1797,7 @@ year,round,pick,player,position,school
 2012,2,49,"O'Quinn, Kyle",PF,Norfolk St.
 2012,2,50,"Turkyilmaz, Izzet",PF,Banvit
 2012,2,51,"Joseph, Kris",SF,Syracuse
-2012,2,52,"Kuzmi?, Ognjen",C,Clinicas RincÛn
+2012,2,52,"Kuzmi?, Ognjen",C,Clinicas Rinc√≥n
 2012,2,53,"Aldemir, Furkan",PF,Galatasaray
 2012,2,54,"Shengelia, Tornike",SF,Spirou Charleroi
 2012,2,55,"Johnson-Odom, Darius",SG,Marquette
@@ -1822,7 +1822,7 @@ year,round,pick,player,position,school
 2013,1,14,"Muhammad, Shabazz",SG/SF,UCLA
 2013,1,15,"Antetokounmpo, Giannis",SF/PF,Filathlitikos
 2013,1,16,"Nogueira, Lucas",C,Estudiantes
-2013,1,17,"Schrˆder, Dennis",PG,Phantoms Braunschweig
+2013,1,17,"Schr√∂der, Dennis",PG,Phantoms Braunschweig
 2013,1,18,"Larkin, Shane",PG,Miami (FL)
 2013,1,19,"Karasev, Sergey",SG/SF,Triumph Lyubertsy
 2013,1,20,"Snell, Tony",SF,New Mexico
@@ -1831,13 +1831,13 @@ year,round,pick,player,position,school
 2013,1,23,"Hill, Solomon",SF,Arizona
 2013,1,24,"Hardaway Jr., Tim",SG,Michigan
 2013,1,25,"Bullock, Reggie",SF,North Carolina
-2013,1,26,"Roberson, AndrÈ",SG/SF,Colorado
+2013,1,26,"Roberson, Andr√©",SG/SF,Colorado
 2013,1,27,"Gobert, Rudy",C,Cholet Basket
 2013,1,28,"Jean-Charles, Livio",SF,ASVEL Basket
 2013,1,29,"Goodwin, Archie",SG,Kentucky
 2013,1,30,"Nedovi?, Nemanja",PG,Lietuvos Rytas
 2013,2,31,"Crabbe, Allen",SG,California
-2013,2,32,"Abrines, ¡lex",SG/SF,FC Barcelona
+2013,2,32,"Abrines, √Ålex",SG/SF,FC Barcelona
 2013,2,33,"Felix, Carrick",SG,Arizona State
 2013,2,34,"Canaan, Isaiah",PG,Murray State
 2013,2,35,"Rice Jr., Glen",SG,Rio Grande Valley Vipers
@@ -1875,7 +1875,7 @@ year,round,pick,player,position,school
 2014,1,7,"Randle, Julius",PF,Kentucky
 2014,1,8,"Stauskas, Nik",SG,Michigan
 2014,1,9,"Vonleh, Noah",PF,Indiana
-2014,1,10,"Payton, Elfrid",PG,LouisianañLafayette
+2014,1,10,"Payton, Elfrid",PG,Louisiana‚ÄìLafayette
 2014,1,11,"McDermott, Doug",SF,Creighton
 2014,1,12,"Saric, Dario",SF/PF,Cibona Zagreb
 2014,1,13,"LaVine, Zach",SG,UCLA
@@ -1890,7 +1890,7 @@ year,round,pick,player,position,school
 2014,1,22,"Adams, Jordan",SG,UCLA
 2014,1,23,"Hood, Rodney",SG,Duke
 2014,1,24,"Napier, Shabazz",PG,Connecticut
-2014,1,25,"Capela, Clint",C,…lan Chalon
+2014,1,25,"Capela, Clint",C,√âlan Chalon
 2014,1,26,"Hairston, P. J.",SG,Texas Legends
 2014,1,27,"Bogdanovi?, Bogdan",SG,Partizan Belgrade
 2014,1,28,"Wilcox, C. J.",SG,Washington
@@ -1960,11 +1960,11 @@ year,round,pick,player,position,school
 2015,2,32,"Harrell, Montrezl",PF,Louisville
 2015,2,33,"Mickey, Jordan",PF,LSU
 2015,2,34,"Brown, Anthony",SF,Stanford
-2015,2,35,"HernangÛmez, Willy",C,Baloncesto Sevilla
+2015,2,35,"Hernang√≥mez, Willy",C,Baloncesto Sevilla
 2015,2,36,"Christmas, Rakeem",PF/C,Syracuse
 2015,2,37,"Holmes, Richaun",SF/PF,Bowling Green
 2015,2,38,"Hilliard, Darrun",SG,Villanova
-2015,2,39,"Vaulet, Juan Pablo",SF,Estudiantes de BahÌa
+2015,2,39,"Vaulet, Juan Pablo",SF,Estudiantes de Bah√≠a
 2015,2,40,"Richardson, Josh",SG,Tennessee
 2015,2,41,"Connaughton, Pat",SF,Notre Dame
 2015,2,42,"Hanlan, Olivier",PG,Boston College
@@ -1972,14 +1972,14 @@ year,round,pick,player,position,school
 2015,2,44,"Harrison, Andrew",PG,Kentucky
 2015,2,45,"Thornton, Marcus",PG,William & Mary
 2015,2,46,"Powell, Norman",SG,UCLA
-2015,2,47,"Gudaitis, Art?ras",C,éalgiris Kaunas
+2015,2,47,"Gudaitis, Art?ras",C,≈Ωalgiris Kaunas
 2015,2,48,"Johnson, Dakari",C,Kentucky
 2015,2,49,"White, Aaron",PF,Iowa
 2015,2,50,"Eriksson, Marcus",SG,FC Barcelona
 2015,2,51,"Harvey, Tyler",PG,Eastern Washington
 2015,2,52,"Bhamara, Satnam Singh",C,IMG Academy
 2015,2,53,"Pointer, Sir'Dominic",SF,St. John's
-2015,2,54,"DÌez, Dani",SF,Gipuzkoa Basket
+2015,2,54,"D√≠ez, Dani",SF,Gipuzkoa Basket
 2015,2,55,"Lalanne, Cady",PF,Massachusetts
 2015,2,56,"Dawson, Branden",SF,Michigan State
 2015,2,57,"Radi?evi?, Nikola",PG,Baloncesto Sevilla
@@ -2000,20 +2000,20 @@ year,round,pick,player,position,school
 2016,1,12,"Prince, Taurean",PF,Baylor
 2016,1,13,"Papagiannis, Georgios",C,Panathinaikos
 2016,1,14,"Valentine, Denzel",SG/SF,Michigan State
-2016,1,15,"HernangÛmez, Juan",SF/PF,Movistar Estudiantes
-2016,1,16,"Yabusele, Guerschon",PF,Rouen MÈtropole
+2016,1,15,"Hernang√≥mez, Juan",SF/PF,Movistar Estudiantes
+2016,1,16,"Yabusele, Guerschon",PF,Rouen M√©tropole
 2016,1,17,"Baldwin IV, Wade",PG,Vanderbilt
 2016,1,18,"Ellenson, Henry",PF,Marquette
 2016,1,19,"Beasley, Malik",SG,Florida State
 2016,1,20,"LeVert, Caris",SG,Michigan
 2016,1,21,"Bembry, DeAndre'",SF,Saint Joseph's
 2016,1,22,"Richardson, Malachi",SG,Syracuse
-2016,1,23,"éiûi?, Ante",C,KK Cibona
-2016,1,24,"Luwawu-Cabarrot, TimothÈ",SG/SF,Mega Leks
+2016,1,23,"≈Ωi≈æi?, Ante",C,KK Cibona
+2016,1,24,"Luwawu-Cabarrot, Timoth√©",SG/SF,Mega Leks
 2016,1,25,"Johnson, Brice",PF,North Carolina
 2016,1,26,"Korkmaz, Furkan",SG/SF,Anadolu Efes
 2016,1,27,"Siakam, Pascal",PF,New Mexico State
-2016,1,28,"LabissiËre, Skal",PF/C,Kentucky
+2016,1,28,"Labissi√®re, Skal",PF/C,Kentucky
 2016,1,29,"Murray, Dejounte",PG/SG,Washington
 2016,1,30,"Jones, Damian",C,Vanderbilt
 2016,2,31,"Davis, Deyonta",PF/C,Michigan State
@@ -2070,7 +2070,7 @@ year,round,pick,player,position,school
 2017,1,22,"Allen, Jarrett",C,Texas
 2017,1,23,"Anunoby, OG",SF,Indiana
 2017,1,24,"Lydon, Tyler",PF,Syracuse
-2017,1,25,"Pase??iks, Anûejs",C,Herbalife Gran Canaria
+2017,1,25,"Pase??iks, An≈æejs",C,Herbalife Gran Canaria
 2017,1,26,"Swanigan, Caleb",PF,Purdue
 2017,1,27,"Kuzma, Kyle",PF,Utah
 2017,1,28,"Bradley, Tony",PF/C,North Carolina
@@ -2088,7 +2088,7 @@ year,round,pick,player,position,school
 2017,2,40,"Bacon, Dwayne",SG,Florida State
 2017,2,41,"Dorsey, Tyler",SG,Oregon
 2017,2,42,"Bryant, Thomas",PF,Indiana
-2017,2,43,"Hartenstein, Isaiah",PF/C,éalgiris Kaunas
+2017,2,43,"Hartenstein, Isaiah",PF/C,≈Ωalgiris Kaunas
 2017,2,44,"Dotson, Damyean",SG,Houston
 2017,2,45,"Brooks, Dillon",SF,Oregon
 2017,2,46,"Brown, Sterling",SG,SMU
@@ -2096,7 +2096,7 @@ year,round,pick,player,position,school
 2017,2,48,"Thornwell, Sindarius",SG,South Carolina
 2017,2,49,"?an?ar, Vlatko",SF,Mega Leks
 2017,2,50,"Lessort, Mathias",PF/C,Nanterre 92
-2017,2,51,"Morris, MontÈ",PG,Iowa State
+2017,2,51,"Morris, Mont√©",PG,Iowa State
 2017,2,52,"Sumner, Edmond",PG,Xavier
 2017,2,53,"Allen, Kadeem",SG,Arizona
 2017,2,54,"Peters, Alec",SF,Valparaiso
