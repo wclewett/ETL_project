@@ -1,72 +1,72 @@
-Season,Lg,Champion,MVP,ROY,PTS,TRB,AST,WS,mvp_player_id,roy_player_id,pts_player_id,trb_player_id,ast_player_id,ws_player_id,ID
-2019-20,NBA,PLAYOFFS UNFINISHED,G. Antetokounmpo,J. Morant,J. Harden (2335),R. Gobert (916),L. James (684),J. Harden (13.1),antetgi01,moranja01,hardeja01,goberru01,jamesle01,hardeja01,AWARD NOT ISSUED
-2018-19,NBA,TORONTO RAPTORS,G. Antetokounmpo,L. Doncic,J. Harden (2818),A. Drummond (1232),R. Westbrook (784),J. Harden (15.2),antetgi01,doncilu01,hardeja01,drumman01,westbru01,hardeja01,TOR
-2017-18,NBA,GOLDEN STATE WARRIORS,J. Harden,B. Simmons,L. James (2251),A. Drummond (1247),R. Westbrook (820),J. Harden (15.4),hardeja01,simmobe01,jamesle01,drumman01,westbru01,hardeja01,GSW
-2016-17,NBA,GOLDEN STATE WARRIORS,R. Westbrook,M. Brogdon,R. Westbrook (2558),A. Drummond (1115),J. Harden (907),J. Harden (15.0),westbru01,brogdma01,westbru01,drumman01,hardeja01,hardeja01,GSW
-2015-16,NBA,CLEVELAND CAVALIERS,S. Curry,K. Towns,J. Harden (2376),A. Drummond (1198),R. Rondo (839),S. Curry (17.9),curryst01,townska01,hardeja01,drumman01,rondora01,curryst01,CLE
-2014-15,NBA,GOLDEN STATE WARRIORS,S. Curry,A. Wiggins,J. Harden (2217),D. Jordan (1226),C. Paul (838),J. Harden (16.4),curryst01,wiggian01,hardeja01,jordade01,paulch01,hardeja01,GSW
-2013-14,NBA,SAN ANTONIO SPURS,K. Durant,M. Carter-Williams,K. Durant (2593),D. Jordan (1114),J. Wall (721),K. Durant (19.2),duranke01,cartemi01,duranke01,jordade01,walljo01,duranke01,SAS
-2012-13,NBA,MIAMI HEAT,L. James,D. Lillard,K. Durant (2280),Ö. A??k (956),G. Vásquez (704),L. James (19.3),jamesle01,lillada01,duranke01,asikom01,vasqugr01,jamesle01,MIA
-2011-12,NBA,MIAMI HEAT,L. James,K. Irving,K. Durant (1850),D. Howard (785),S. Nash (664),L. James (14.5),jamesle01,irvinky01,duranke01,howardw01,nashst01,jamesle01,MIA
-2010-11,NBA,DALLAS MAVERICKS,D. Rose,B. Griffin,K. Durant (2161),K. Love (1112),S. Nash (855),L. James (15.6),rosede01,griffbl01,duranke01,loveke01,nashst01,jamesle01,DAL
-2009-10,NBA,LOS ANGELES LAKERS,L. James,T. Evans,K. Durant (2472),D. Howard (1082),S. Nash (892),L. James (18.5),jamesle01,evansty01,duranke01,howardw01,nashst01,jamesle01,LAL
-2008-09,NBA,LOS ANGELES LAKERS,L. James,D. Rose,D. Wade (2386),D. Howard (1093),C. Paul (861),L. James (20.3),jamesle01,rosede01,wadedw01,howardw01,paulch01,jamesle01,LAL
-2007-08,NBA,BOSTON CELTICS,K. Bryant,K. Durant,K. Bryant (2323),D. Howard (1161),C. Paul (925),C. Paul (17.8),bryanko01,duranke01,bryanko01,howardw01,paulch01,paulch01,BOS
-2006-07,NBA,SAN ANTONIO SPURS,D. Nowitzki,B. Roy,K. Bryant (2430),D. Howard (1008),S. Nash (884),D. Nowitzki (16.3),nowitdi01,roybr01,bryanko01,howardw01,nashst01,nowitdi01,SAS
-2005-06,NBA,MIAMI HEAT,S. Nash,C. Paul,K. Bryant (2832),D. Howard (1022),S. Nash (826),D. Nowitzki (17.7),nashst01,paulch01,bryanko01,howardw01,nashst01,nowitdi01,MIA
-2004-05,NBA,SAN ANTONIO SPURS,S. Nash,E. Okafor,A. Iverson (2302),K. Garnett (1108),S. Nash (861),K. Garnett (16.1),nashst01,okafoem01,iversal01,garneke01,nashst01,garneke01,SAS
-2003-04,NBA,DETROIT PISTONS,K. Garnett,L. James,K. Garnett (1987),K. Garnett (1139),S. Marbury (719),K. Garnett (18.3),garneke01,jamesle01,garneke01,garneke01,marbust01,garneke01,DET
-2002-03,NBA,SAN ANTONIO SPURS,T. Duncan,A. Stoudemire,K. Bryant (2461),B. Wallace (1126),J. Kidd (711),T. Duncan (16.5),duncati01,stoudam01,bryanko01,wallabe01,kiddja01,duncati01,SAS
-2001-02,NBA,LOS ANGELES LAKERS,T. Duncan,P. Gasol,P. Pierce (2144),T. Duncan (1042),A. Miller (882),T. Duncan (17.8),duncati01,gasolpa01,piercpa01,duncati01,millean02,duncati01,LAL
-2000-01,NBA,LOS ANGELES LAKERS,A. Iverson,M. Miller,J. Stackhouse (2380),B. Wallace (1052),J. Kidd (753),S. O'Neal (14.9),iversal01,millemi01,stackje01,wallabe01,kiddja01,onealsh01,LAL
-1999-00,NBA,LOS ANGELES LAKERS,S. O'Neal,"E. Brand, S. Francis",S. O'Neal (2344),D. Mutombo (1157),G. Payton (732),S. O'Neal (18.6),onealsh01,brandel01,onealsh01,mutomdi01,paytoga01,onealsh01,LAL
-1998-99,NBA,SAN ANTONIO SPURS,K. Malone,V. Carter,S. O'Neal (1289),D. Mutombo (610),J. Kidd (539),K. Malone (9.6),malonka01,cartevi01,onealsh01,mutomdi01,kiddja01,malonka01,SAS
-1997-98,NBA,CHICAGO BULLS,M. Jordan,T. Duncan,M. Jordan (2357),D. Rodman (1201),R. Strickland (801),K. Malone (16.4),jordami01,duncati01,jordami01,rodmade01,stricro02,malonka01,CHI
-1996-97,NBA,CHICAGO BULLS,K. Malone,A. Iverson,M. Jordan (2431),D. Mutombo (929),M. Jackson (935),M. Jordan (18.3),malonka01,iversal01,jordami01,mutomdi01,jacksma01,jordami01,CHI
-1995-96,NBA,CHICAGO BULLS,M. Jordan,D. Stoudamire,M. Jordan (2491),D. Robinson (1000),J. Stockton (916),M. Jordan (20.4),jordami01,stoudda01,jordami01,robinda01,stockjo01,jordami01,CHI
-1994-95,NBA,HOUSTON ROCKETS,D. Robinson,"G. Hill, J. Kidd",S. O'Neal (2315),D. Mutombo (1029),J. Stockton (1011),D. Robinson (17.5),robinda01,hillgr01,onealsh01,mutomdi01,stockjo01,robinda01,HOU
-1993-94,NBA,HOUSTON ROCKETS,H. Olajuwon,C. Webber,D. Robinson (2383),D. Rodman (1367),J. Stockton (1031),D. Robinson (20.0),olajuha01,webbech01,robinda01,rodmade01,stockjo01,robinda01,HOU
-1992-93,NBA,CHICAGO BULLS,C. Barkley,S. O'Neal,M. Jordan (2541),D. Rodman (1132),J. Stockton (987),M. Jordan (17.2),barklch01,onealsh01,jordami01,rodmade01,stockjo01,jordami01,CHI
-1991-92,NBA,CHICAGO BULLS,M. Jordan,L. Johnson,M. Jordan (2404),D. Rodman (1530),J. Stockton (1126),M. Jordan (17.7),jordami01,johnsla02,jordami01,rodmade01,stockjo01,jordami01,CHI
-1990-91,NBA,CHICAGO BULLS,M. Jordan,D. Coleman,M. Jordan (2580),D. Robinson (1063),J. Stockton (1164),M. Jordan (20.3),jordami01,colemde01,jordami01,robinda01,stockjo01,jordami01,CHI
-1989-90,NBA,DETROIT PISTONS,M. Johnson,D. Robinson,M. Jordan (2753),H. Olajuwon (1149),J. Stockton (1134),M. Jordan (19.0),johnsma02,robinda01,jordami01,olajuha01,stockjo01,jordami01,DET
-1988-89,NBA,DETROIT PISTONS,M. Johnson,M. Richmond,M. Jordan (2633),H. Olajuwon (1105),J. Stockton (1118),M. Jordan (19.8),johnsma02,richmmi01,jordami01,olajuha01,stockjo01,jordami01,DET
-1987-88,NBA,LOS ANGELES LAKERS,M. Jordan,M. Jackson,M. Jordan (2868),C. Oakley (1066),J. Stockton (1128),M. Jordan (21.2),jordami01,jacksma01,jordami01,oaklech01,stockjo01,jordami01,LAL
-1986-87,NBA,LOS ANGELES LAKERS,M. Johnson,C. Person,M. Jordan (3041),C. Oakley (1074),M. Johnson (977),M. Jordan (16.9),johnsma02,persoch01,jordami01,oaklech01,johnsma02,jordami01,LAL
-1985-86,NBA,BOSTON CELTICS,L. Bird,P. Ewing,A. English (2414),B. Laimbeer (1075),M. Johnson (907),L. Bird (15.8),birdla01,ewingpa01,englial01,laimbbi01,johnsma02,birdla01,BOS
-1984-85,NBA,LOS ANGELES LAKERS,L. Bird,M. Jordan,M. Jordan (2313),M. Malone (1031),I. Thomas (1123),L. Bird (15.7),birdla01,jordami01,jordami01,malonmo01,thomais01,birdla01,LAL
-1983-84,NBA,BOSTON CELTICS,L. Bird,R. Sampson,A. Dantley (2418),B. Laimbeer (1003),N. Nixon (914),A. Dantley (14.6),birdla01,sampsra01,dantlad01,laimbbi01,nixonno01,dantlad01,BOS
-1982-83,NBA,PHILADELPHIA 76ERS,M. Malone,T. Cummings,A. English (2326),M. Malone (1194),M. Johnson (829),M. Malone (15.1),malonmo01,cummite01,englial01,malonmo01,johnsma02,malonmo01,PHI
-1981-82,NBA,LOS ANGELES LAKERS,M. Malone,B. Williams,G. Gervin (2551),M. Malone (1188),J. Moore (762),M. Malone (15.4),malonmo01,willibu01,gervige01,malonmo01,moorejo01,malonmo01,LAL
-1980-81,NBA,BOSTON CELTICS,J. Erving,D. Griffith,A. Dantley (2452),M. Malone (1180),K. Porter (734),K. Abdul-Jabbar (14.3),ervinju01,griffda01,dantlad01,malonmo01,porteke01,abdulka01,BOS
-1979-80,NBA,LOS ANGELES LAKERS,K. Abdul-Jabbar,L. Bird,G. Gervin (2585),S. Nater (1216),M. Richardson (832),K. Abdul-Jabbar (14.8),abdulka01,birdla01,gervige01,natersw01,richami01,abdulka01,LAL
-1978-79,NBA,SEATTLE SUPERSONICS,M. Malone,P. Ford,G. Gervin (2365),M. Malone (1444),K. Porter (1099),K. Abdul-Jabbar (14.4),malonmo01,fordph01,gervige01,malonmo01,porteke01,abdulka01,SEA
-1977-78,NBA,WASHINGTON BULLETS,B. Walton,W. Davis,G. Gervin (2232),T. Robinson (1288),K. Porter (837),D. Thompson (12.7),waltobi01,daviswa03,gervige01,robintr01,porteke01,thompda01,WSB
-1976-77,NBA,PORTLAND TRAIL BLAZERS,K. Abdul-Jabbar,A. Dantley,P. Maravich (2273),K. Abdul-Jabbar (1090),D. Buse (685),K. Abdul-Jabbar (17.8),abdulka01,dantlad01,maravpe01,abdulka01,busedo01,abdulka01,POR
-1975-76,NBA,BOSTON CELTICS,K. Abdul-Jabbar,A. Adams,B. McAdoo (2427),K. Abdul-Jabbar (1383),S. Watts (661),K. Abdul-Jabbar (17.0),abdulka01,adamsal01,mcadobo01,abdulka01,wattssl01,abdulka01,BOS
-1974-75,NBA,GOLDEN STATE WARRIORS,B. McAdoo,J. Wilkes,B. McAdoo (2831),B. McAdoo (1155),K. Porter (650),B. McAdoo (17.8),mcadobo01,wilkeja01,mcadobo01,mcadobo01,porteke01,mcadobo01,GSW
-1973-74,NBA,BOSTON CELTICS,K. Abdul-Jabbar,E. DiGregorio,B. McAdoo (2261),E. Hayes (1463),E. DiGregorio (663),K. Abdul-Jabbar (18.4),abdulka01,digreer01,mcadobo01,hayesel01,digreer01,abdulka01,BOS
-1972-73,NBA,NEW YORK KNICKS,D. Cowens,B. McAdoo,T. Archibald (2719),W. Chamberlain (1526),T. Archibald (910),K. Abdul-Jabbar (21.9),cowenda01,mcadobo01,architi01,chambwi01,architi01,abdulka01,NYK
-1971-72,NBA,LOS ANGELES LAKERS,K. Abdul-Jabbar,S. Wicks,K. Abdul-Jabbar (2822),W. Chamberlain (1572),L. Wilkens (766),K. Abdul-Jabbar (25.4),abdulka01,wickssi01,abdulka01,chambwi01,wilkele01,abdulka01,LAL
-1970-71,NBA,MILWAUKEE BUCKS,K. Abdul-Jabbar,"D. Cowens, G. Petrie",K. Abdul-Jabbar (2596),W. Chamberlain (1493),N. Van Lier (832),K. Abdul-Jabbar (22.3),abdulka01,cowenda01,abdulka01,chambwi01,vanlino01,abdulka01,MIL
-1969-70,NBA,NEW YORK KNICKS,W. Reed,K. Abdul-Jabbar,K. Abdul-Jabbar (2361),E. Hayes (1386),L. Wilkens (683),J. West (15.2),reedwi01,abdulka01,abdulka01,hayesel01,wilkele01,westje01,NYK
-1968-69,NBA,BOSTON CELTICS,W. Unseld,W. Unseld,E. Hayes (2327),W. Chamberlain (1712),O. Robertson (772),W. Reed (14.7),unselwe01,unselwe01,hayesel01,chambwi01,roberos01,reedwi01,BOS
-1967-68,NBA,BOSTON CELTICS,W. Chamberlain,E. Monroe,D. Bing (2142),W. Chamberlain (1952),W. Chamberlain (702),W. Chamberlain (20.4),chambwi01,monroea01,bingda01,chambwi01,chambwi01,chambwi01,BOS
-1966-67,NBA,PHILADELPHIA 76ERS,W. Chamberlain,D. Bing,R. Barry (2775),W. Chamberlain (1957),G. Rodgers (908),W. Chamberlain (21.9),chambwi01,bingda01,barryri01,chambwi01,rodgegu01,chambwi01,PHI
-1965-66,NBA,BOSTON CELTICS,W. Chamberlain,R. Barry,W. Chamberlain (2649),W. Chamberlain (1943),O. Robertson (847),W. Chamberlain (21.4),chambwi01,barryri01,chambwi01,chambwi01,roberos01,chambwi01,BOS
-1964-65,NBA,BOSTON CELTICS,B. Russell,W. Reed,W. Chamberlain (2534),B. Russell (1878),O. Robertson (861),O. Robertson (17.0),russebi01,reedwi01,chambwi01,russebi01,roberos01,roberos01,BOS
-1963-64,NBA,BOSTON CELTICS,O. Robertson,J. Lucas,W. Chamberlain (2948),B. Russell (1930),O. Robertson (868),W. Chamberlain (25.0),roberos01,lucasje01,chambwi01,russebi01,roberos01,chambwi01,BOS
-1962-63,NBA,BOSTON CELTICS,B. Russell,T. Dischinger,W. Chamberlain (3586),W. Chamberlain (1946),G. Rodgers (825),W. Chamberlain (20.9),russebi01,dischte01,chambwi01,chambwi01,rodgegu01,chambwi01,BOS
-1961-62,NBA,BOSTON CELTICS,B. Russell,W. Bellamy,W. Chamberlain (4029),W. Chamberlain (2052),O. Robertson (899),W. Chamberlain (23.1),russebi01,bellawa01,chambwi01,chambwi01,roberos01,chambwi01,BOS
-1960-61,NBA,BOSTON CELTICS,B. Russell,O. Robertson,W. Chamberlain (3033),W. Chamberlain (2149),O. Robertson (690),W. Chamberlain (18.8),russebi01,roberos01,chambwi01,chambwi01,roberos01,chambwi01,BOS
-1959-60,NBA,BOSTON CELTICS,W. Chamberlain,W. Chamberlain,W. Chamberlain (2707),W. Chamberlain (1941),B. Cousy (715),W. Chamberlain (17.0),chambwi01,chambwi01,chambwi01,chambwi01,cousybo01,chambwi01,BOS
-1958-59,NBA,BOSTON CELTICS,B. Pettit,E. Baylor,B. Pettit (2105),B. Russell (1612),B. Cousy (557),B. Pettit (14.8),pettibo01,bayloel01,pettibo01,russebi01,cousybo01,pettibo01,BOS
-1957-58,NBA,ST. LOUIS HAWKS,B. Russell,W. Sauldsberry,G. Yardley (2001),B. Russell (1564),B. Cousy (463),D. Schayes (13.7),russebi01,sauldwo01,yardlge01,russebi01,cousybo01,schaydo01,SLH
-1956-57,NBA,BOSTON CELTICS,B. Cousy,T. Heinsohn,P. Arizin (1817),M. Stokes (1256),B. Cousy (478),N. Johnston (13.7),cousybo01,heinsto01,arizipa01,stokema01,cousybo01,johnsne01,BOS
-1955-56,NBA,PHILADELPHIA WARRIORS,B. Pettit,M. Stokes,B. Pettit (1849),B. Pettit (1164),B. Cousy (642),N. Johnston (13.9),pettibo01,stokema01,pettibo01,pettibo01,cousybo01,johnsne01,PHW
-1954-55,NBA,SYRACUSE NATIONALS,AWARD NOT ISSUED,B. Pettit,N. Johnston (1631),N. Johnston (1085),B. Cousy (557),N. Johnston (15.4),AWARD NOT ISSUED,pettibo01,johnsne01,johnsne01,cousybo01,johnsne01,SYR
-1953-54,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,R. Felix,N. Johnston (1759),H. Gallatin (1098),B. Cousy (518),N. Johnston (18.3),AWARD NOT ISSUED,felixra01,johnsne01,gallaha01,cousybo01,johnsne01,MNL
-1952-53,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,M. Meineke,N. Johnston (1564),G. Mikan (1007),B. Cousy (547),N. Johnston (15.3),AWARD NOT ISSUED,meinemo01,johnsne01,mikange01,cousybo01,johnsne01,MNL
-1951-52,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,"M. Hutchins, B. Tosheff",P. Arizin (1674),L. Foust (880),A. Phillip (539),P. Arizin (16.0),AWARD NOT ISSUED,hutchme01,arizipa01,foustla01,phillan01,arizipa01,MNL
-1950-51,NBA,ROCHESTER ROYALS,AWARD NOT ISSUED,P. Arizin,G. Mikan (1932),D. Schayes (1080),A. Phillip (414),G. Mikan (23.4),AWARD NOT ISSUED,arizipa01,mikange01,schaydo01,phillan01,mikange01,ROR
-1949-50,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,A. Groza,G. Mikan (1865),AWARD NOT ISSUED,D. McGuire (386),G. Mikan (21.1),AWARD NOT ISSUED,grozaal01,mikange01,AWARD NOT ISSUED,mcguidi01,mikange01,MNL
+Season,Lg,Champion,MVP,ROY,PTS,TRB,AST,WS,mvp_player_id,roy_player_id,pts_player_id,trb_player_id,ast_player_id,ws_player_id,TeamID
+2020,NBA,PLAYOFFS UNFINISHED,G. Antetokounmpo,J. Morant,J. Harden (2335),R. Gobert (916),L. James (684),J. Harden (13.1),antetgi01,moranja01,hardeja01,goberru01,jamesle01,hardeja01,AWARD NOT ISSUED
+2019,NBA,TORONTO RAPTORS,G. Antetokounmpo,L. Doncic,J. Harden (2818),A. Drummond (1232),R. Westbrook (784),J. Harden (15.2),antetgi01,doncilu01,hardeja01,drumman01,westbru01,hardeja01,TOR
+2018,NBA,GOLDEN STATE WARRIORS,J. Harden,B. Simmons,L. James (2251),A. Drummond (1247),R. Westbrook (820),J. Harden (15.4),hardeja01,simmobe01,jamesle01,drumman01,westbru01,hardeja01,GSW
+2017,NBA,GOLDEN STATE WARRIORS,R. Westbrook,M. Brogdon,R. Westbrook (2558),A. Drummond (1115),J. Harden (907),J. Harden (15.0),westbru01,brogdma01,westbru01,drumman01,hardeja01,hardeja01,GSW
+2016,NBA,CLEVELAND CAVALIERS,S. Curry,K. Towns,J. Harden (2376),A. Drummond (1198),R. Rondo (839),S. Curry (17.9),curryst01,townska01,hardeja01,drumman01,rondora01,curryst01,CLE
+2015,NBA,GOLDEN STATE WARRIORS,S. Curry,A. Wiggins,J. Harden (2217),D. Jordan (1226),C. Paul (838),J. Harden (16.4),curryst01,wiggian01,hardeja01,jordade01,paulch01,hardeja01,GSW
+2014,NBA,SAN ANTONIO SPURS,K. Durant,M. Carter-Williams,K. Durant (2593),D. Jordan (1114),J. Wall (721),K. Durant (19.2),duranke01,cartemi01,duranke01,jordade01,walljo01,duranke01,SAS
+2013,NBA,MIAMI HEAT,L. James,D. Lillard,K. Durant (2280),Ö. A??k (956),G. Vásquez (704),L. James (19.3),jamesle01,lillada01,duranke01,asikom01,vasqugr01,jamesle01,MIA
+2012,NBA,MIAMI HEAT,L. James,K. Irving,K. Durant (1850),D. Howard (785),S. Nash (664),L. James (14.5),jamesle01,irvinky01,duranke01,howardw01,nashst01,jamesle01,MIA
+2011,NBA,DALLAS MAVERICKS,D. Rose,B. Griffin,K. Durant (2161),K. Love (1112),S. Nash (855),L. James (15.6),rosede01,griffbl01,duranke01,loveke01,nashst01,jamesle01,DAL
+2010,NBA,LOS ANGELES LAKERS,L. James,T. Evans,K. Durant (2472),D. Howard (1082),S. Nash (892),L. James (18.5),jamesle01,evansty01,duranke01,howardw01,nashst01,jamesle01,LAL
+2009,NBA,LOS ANGELES LAKERS,L. James,D. Rose,D. Wade (2386),D. Howard (1093),C. Paul (861),L. James (20.3),jamesle01,rosede01,wadedw01,howardw01,paulch01,jamesle01,LAL
+2008,NBA,BOSTON CELTICS,K. Bryant,K. Durant,K. Bryant (2323),D. Howard (1161),C. Paul (925),C. Paul (17.8),bryanko01,duranke01,bryanko01,howardw01,paulch01,paulch01,BOS
+2007,NBA,SAN ANTONIO SPURS,D. Nowitzki,B. Roy,K. Bryant (2430),D. Howard (1008),S. Nash (884),D. Nowitzki (16.3),nowitdi01,roybr01,bryanko01,howardw01,nashst01,nowitdi01,SAS
+2006,NBA,MIAMI HEAT,S. Nash,C. Paul,K. Bryant (2832),D. Howard (1022),S. Nash (826),D. Nowitzki (17.7),nashst01,paulch01,bryanko01,howardw01,nashst01,nowitdi01,MIA
+2005,NBA,SAN ANTONIO SPURS,S. Nash,E. Okafor,A. Iverson (2302),K. Garnett (1108),S. Nash (861),K. Garnett (16.1),nashst01,okafoem01,iversal01,garneke01,nashst01,garneke01,SAS
+2004,NBA,DETROIT PISTONS,K. Garnett,L. James,K. Garnett (1987),K. Garnett (1139),S. Marbury (719),K. Garnett (18.3),garneke01,jamesle01,garneke01,garneke01,marbust01,garneke01,DET
+2003,NBA,SAN ANTONIO SPURS,T. Duncan,A. Stoudemire,K. Bryant (2461),B. Wallace (1126),J. Kidd (711),T. Duncan (16.5),duncati01,stoudam01,bryanko01,wallabe01,kiddja01,duncati01,SAS
+2002,NBA,LOS ANGELES LAKERS,T. Duncan,P. Gasol,P. Pierce (2144),T. Duncan (1042),A. Miller (882),T. Duncan (17.8),duncati01,gasolpa01,piercpa01,duncati01,millean02,duncati01,LAL
+2001,NBA,LOS ANGELES LAKERS,A. Iverson,M. Miller,J. Stackhouse (2380),B. Wallace (1052),J. Kidd (753),S. O'Neal (14.9),iversal01,millemi01,stackje01,wallabe01,kiddja01,onealsh01,LAL
+1900,NBA,LOS ANGELES LAKERS,S. O'Neal,"E. Brand, S. Francis",S. O'Neal (2344),D. Mutombo (1157),G. Payton (732),S. O'Neal (18.6),onealsh01,brandel01,onealsh01,mutomdi01,paytoga01,onealsh01,LAL
+1999,NBA,SAN ANTONIO SPURS,K. Malone,V. Carter,S. O'Neal (1289),D. Mutombo (610),J. Kidd (539),K. Malone (9.6),malonka01,cartevi01,onealsh01,mutomdi01,kiddja01,malonka01,SAS
+1998,NBA,CHICAGO BULLS,M. Jordan,T. Duncan,M. Jordan (2357),D. Rodman (1201),R. Strickland (801),K. Malone (16.4),jordami01,duncati01,jordami01,rodmade01,stricro02,malonka01,CHI
+1997,NBA,CHICAGO BULLS,K. Malone,A. Iverson,M. Jordan (2431),D. Mutombo (929),M. Jackson (935),M. Jordan (18.3),malonka01,iversal01,jordami01,mutomdi01,jacksma01,jordami01,CHI
+1996,NBA,CHICAGO BULLS,M. Jordan,D. Stoudamire,M. Jordan (2491),D. Robinson (1000),J. Stockton (916),M. Jordan (20.4),jordami01,stoudda01,jordami01,robinda01,stockjo01,jordami01,CHI
+1995,NBA,HOUSTON ROCKETS,D. Robinson,"G. Hill, J. Kidd",S. O'Neal (2315),D. Mutombo (1029),J. Stockton (1011),D. Robinson (17.5),robinda01,hillgr01,onealsh01,mutomdi01,stockjo01,robinda01,HOU
+1994,NBA,HOUSTON ROCKETS,H. Olajuwon,C. Webber,D. Robinson (2383),D. Rodman (1367),J. Stockton (1031),D. Robinson (20.0),olajuha01,webbech01,robinda01,rodmade01,stockjo01,robinda01,HOU
+1993,NBA,CHICAGO BULLS,C. Barkley,S. O'Neal,M. Jordan (2541),D. Rodman (1132),J. Stockton (987),M. Jordan (17.2),barklch01,onealsh01,jordami01,rodmade01,stockjo01,jordami01,CHI
+1992,NBA,CHICAGO BULLS,M. Jordan,L. Johnson,M. Jordan (2404),D. Rodman (1530),J. Stockton (1126),M. Jordan (17.7),jordami01,johnsla02,jordami01,rodmade01,stockjo01,jordami01,CHI
+1991,NBA,CHICAGO BULLS,M. Jordan,D. Coleman,M. Jordan (2580),D. Robinson (1063),J. Stockton (1164),M. Jordan (20.3),jordami01,colemde01,jordami01,robinda01,stockjo01,jordami01,CHI
+1990,NBA,DETROIT PISTONS,M. Johnson,D. Robinson,M. Jordan (2753),H. Olajuwon (1149),J. Stockton (1134),M. Jordan (19.0),johnsma02,robinda01,jordami01,olajuha01,stockjo01,jordami01,DET
+1989,NBA,DETROIT PISTONS,M. Johnson,M. Richmond,M. Jordan (2633),H. Olajuwon (1105),J. Stockton (1118),M. Jordan (19.8),johnsma02,richmmi01,jordami01,olajuha01,stockjo01,jordami01,DET
+1988,NBA,LOS ANGELES LAKERS,M. Jordan,M. Jackson,M. Jordan (2868),C. Oakley (1066),J. Stockton (1128),M. Jordan (21.2),jordami01,jacksma01,jordami01,oaklech01,stockjo01,jordami01,LAL
+1987,NBA,LOS ANGELES LAKERS,M. Johnson,C. Person,M. Jordan (3041),C. Oakley (1074),M. Johnson (977),M. Jordan (16.9),johnsma02,persoch01,jordami01,oaklech01,johnsma02,jordami01,LAL
+1986,NBA,BOSTON CELTICS,L. Bird,P. Ewing,A. English (2414),B. Laimbeer (1075),M. Johnson (907),L. Bird (15.8),birdla01,ewingpa01,englial01,laimbbi01,johnsma02,birdla01,BOS
+1985,NBA,LOS ANGELES LAKERS,L. Bird,M. Jordan,M. Jordan (2313),M. Malone (1031),I. Thomas (1123),L. Bird (15.7),birdla01,jordami01,jordami01,malonmo01,thomais01,birdla01,LAL
+1984,NBA,BOSTON CELTICS,L. Bird,R. Sampson,A. Dantley (2418),B. Laimbeer (1003),N. Nixon (914),A. Dantley (14.6),birdla01,sampsra01,dantlad01,laimbbi01,nixonno01,dantlad01,BOS
+1983,NBA,PHILADELPHIA 76ERS,M. Malone,T. Cummings,A. English (2326),M. Malone (1194),M. Johnson (829),M. Malone (15.1),malonmo01,cummite01,englial01,malonmo01,johnsma02,malonmo01,PHI
+1982,NBA,LOS ANGELES LAKERS,M. Malone,B. Williams,G. Gervin (2551),M. Malone (1188),J. Moore (762),M. Malone (15.4),malonmo01,willibu01,gervige01,malonmo01,moorejo01,malonmo01,LAL
+1981,NBA,BOSTON CELTICS,J. Erving,D. Griffith,A. Dantley (2452),M. Malone (1180),K. Porter (734),K. Abdul-Jabbar (14.3),ervinju01,griffda01,dantlad01,malonmo01,porteke01,abdulka01,BOS
+1980,NBA,LOS ANGELES LAKERS,K. Abdul-Jabbar,L. Bird,G. Gervin (2585),S. Nater (1216),M. Richardson (832),K. Abdul-Jabbar (14.8),abdulka01,birdla01,gervige01,natersw01,richami01,abdulka01,LAL
+1979,NBA,SEATTLE SUPERSONICS,M. Malone,P. Ford,G. Gervin (2365),M. Malone (1444),K. Porter (1099),K. Abdul-Jabbar (14.4),malonmo01,fordph01,gervige01,malonmo01,porteke01,abdulka01,SEA
+1978,NBA,WASHINGTON BULLETS,B. Walton,W. Davis,G. Gervin (2232),T. Robinson (1288),K. Porter (837),D. Thompson (12.7),waltobi01,daviswa03,gervige01,robintr01,porteke01,thompda01,WSB
+1977,NBA,PORTLAND TRAIL BLAZERS,K. Abdul-Jabbar,A. Dantley,P. Maravich (2273),K. Abdul-Jabbar (1090),D. Buse (685),K. Abdul-Jabbar (17.8),abdulka01,dantlad01,maravpe01,abdulka01,busedo01,abdulka01,POR
+1976,NBA,BOSTON CELTICS,K. Abdul-Jabbar,A. Adams,B. McAdoo (2427),K. Abdul-Jabbar (1383),S. Watts (661),K. Abdul-Jabbar (17.0),abdulka01,adamsal01,mcadobo01,abdulka01,wattssl01,abdulka01,BOS
+1975,NBA,GOLDEN STATE WARRIORS,B. McAdoo,J. Wilkes,B. McAdoo (2831),B. McAdoo (1155),K. Porter (650),B. McAdoo (17.8),mcadobo01,wilkeja01,mcadobo01,mcadobo01,porteke01,mcadobo01,GSW
+1974,NBA,BOSTON CELTICS,K. Abdul-Jabbar,E. DiGregorio,B. McAdoo (2261),E. Hayes (1463),E. DiGregorio (663),K. Abdul-Jabbar (18.4),abdulka01,digreer01,mcadobo01,hayesel01,digreer01,abdulka01,BOS
+1973,NBA,NEW YORK KNICKS,D. Cowens,B. McAdoo,T. Archibald (2719),W. Chamberlain (1526),T. Archibald (910),K. Abdul-Jabbar (21.9),cowenda01,mcadobo01,architi01,chambwi01,architi01,abdulka01,NYK
+1972,NBA,LOS ANGELES LAKERS,K. Abdul-Jabbar,S. Wicks,K. Abdul-Jabbar (2822),W. Chamberlain (1572),L. Wilkens (766),K. Abdul-Jabbar (25.4),abdulka01,wickssi01,abdulka01,chambwi01,wilkele01,abdulka01,LAL
+1971,NBA,MILWAUKEE BUCKS,K. Abdul-Jabbar,"D. Cowens, G. Petrie",K. Abdul-Jabbar (2596),W. Chamberlain (1493),N. Van Lier (832),K. Abdul-Jabbar (22.3),abdulka01,cowenda01,abdulka01,chambwi01,vanlino01,abdulka01,MIL
+1970,NBA,NEW YORK KNICKS,W. Reed,K. Abdul-Jabbar,K. Abdul-Jabbar (2361),E. Hayes (1386),L. Wilkens (683),J. West (15.2),reedwi01,abdulka01,abdulka01,hayesel01,wilkele01,westje01,NYK
+1969,NBA,BOSTON CELTICS,W. Unseld,W. Unseld,E. Hayes (2327),W. Chamberlain (1712),O. Robertson (772),W. Reed (14.7),unselwe01,unselwe01,hayesel01,chambwi01,roberos01,reedwi01,BOS
+1968,NBA,BOSTON CELTICS,W. Chamberlain,E. Monroe,D. Bing (2142),W. Chamberlain (1952),W. Chamberlain (702),W. Chamberlain (20.4),chambwi01,monroea01,bingda01,chambwi01,chambwi01,chambwi01,BOS
+1967,NBA,PHILADELPHIA 76ERS,W. Chamberlain,D. Bing,R. Barry (2775),W. Chamberlain (1957),G. Rodgers (908),W. Chamberlain (21.9),chambwi01,bingda01,barryri01,chambwi01,rodgegu01,chambwi01,PHI
+1966,NBA,BOSTON CELTICS,W. Chamberlain,R. Barry,W. Chamberlain (2649),W. Chamberlain (1943),O. Robertson (847),W. Chamberlain (21.4),chambwi01,barryri01,chambwi01,chambwi01,roberos01,chambwi01,BOS
+1965,NBA,BOSTON CELTICS,B. Russell,W. Reed,W. Chamberlain (2534),B. Russell (1878),O. Robertson (861),O. Robertson (17.0),russebi01,reedwi01,chambwi01,russebi01,roberos01,roberos01,BOS
+1964,NBA,BOSTON CELTICS,O. Robertson,J. Lucas,W. Chamberlain (2948),B. Russell (1930),O. Robertson (868),W. Chamberlain (25.0),roberos01,lucasje01,chambwi01,russebi01,roberos01,chambwi01,BOS
+1963,NBA,BOSTON CELTICS,B. Russell,T. Dischinger,W. Chamberlain (3586),W. Chamberlain (1946),G. Rodgers (825),W. Chamberlain (20.9),russebi01,dischte01,chambwi01,chambwi01,rodgegu01,chambwi01,BOS
+1962,NBA,BOSTON CELTICS,B. Russell,W. Bellamy,W. Chamberlain (4029),W. Chamberlain (2052),O. Robertson (899),W. Chamberlain (23.1),russebi01,bellawa01,chambwi01,chambwi01,roberos01,chambwi01,BOS
+1961,NBA,BOSTON CELTICS,B. Russell,O. Robertson,W. Chamberlain (3033),W. Chamberlain (2149),O. Robertson (690),W. Chamberlain (18.8),russebi01,roberos01,chambwi01,chambwi01,roberos01,chambwi01,BOS
+1960,NBA,BOSTON CELTICS,W. Chamberlain,W. Chamberlain,W. Chamberlain (2707),W. Chamberlain (1941),B. Cousy (715),W. Chamberlain (17.0),chambwi01,chambwi01,chambwi01,chambwi01,cousybo01,chambwi01,BOS
+1959,NBA,BOSTON CELTICS,B. Pettit,E. Baylor,B. Pettit (2105),B. Russell (1612),B. Cousy (557),B. Pettit (14.8),pettibo01,bayloel01,pettibo01,russebi01,cousybo01,pettibo01,BOS
+1958,NBA,ST. LOUIS HAWKS,B. Russell,W. Sauldsberry,G. Yardley (2001),B. Russell (1564),B. Cousy (463),D. Schayes (13.7),russebi01,sauldwo01,yardlge01,russebi01,cousybo01,schaydo01,SLH
+1957,NBA,BOSTON CELTICS,B. Cousy,T. Heinsohn,P. Arizin (1817),M. Stokes (1256),B. Cousy (478),N. Johnston (13.7),cousybo01,heinsto01,arizipa01,stokema01,cousybo01,johnsne01,BOS
+1956,NBA,PHILADELPHIA WARRIORS,B. Pettit,M. Stokes,B. Pettit (1849),B. Pettit (1164),B. Cousy (642),N. Johnston (13.9),pettibo01,stokema01,pettibo01,pettibo01,cousybo01,johnsne01,PHW
+1955,NBA,SYRACUSE NATIONALS,AWARD NOT ISSUED,B. Pettit,N. Johnston (1631),N. Johnston (1085),B. Cousy (557),N. Johnston (15.4),AWARD NOT ISSUED,pettibo01,johnsne01,johnsne01,cousybo01,johnsne01,SYR
+1954,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,R. Felix,N. Johnston (1759),H. Gallatin (1098),B. Cousy (518),N. Johnston (18.3),AWARD NOT ISSUED,felixra01,johnsne01,gallaha01,cousybo01,johnsne01,MNL
+1953,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,M. Meineke,N. Johnston (1564),G. Mikan (1007),B. Cousy (547),N. Johnston (15.3),AWARD NOT ISSUED,meinemo01,johnsne01,mikange01,cousybo01,johnsne01,MNL
+1952,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,"M. Hutchins, B. Tosheff",P. Arizin (1674),L. Foust (880),A. Phillip (539),P. Arizin (16.0),AWARD NOT ISSUED,hutchme01,arizipa01,foustla01,phillan01,arizipa01,MNL
+1951,NBA,ROCHESTER ROYALS,AWARD NOT ISSUED,P. Arizin,G. Mikan (1932),D. Schayes (1080),A. Phillip (414),G. Mikan (23.4),AWARD NOT ISSUED,arizipa01,mikange01,schaydo01,phillan01,mikange01,ROR
+1950,NBA,MINNEAPOLIS LAKERS,AWARD NOT ISSUED,A. Groza,G. Mikan (1865),AWARD NOT ISSUED,D. McGuire (386),G. Mikan (21.1),AWARD NOT ISSUED,grozaal01,mikange01,AWARD NOT ISSUED,mcguidi01,mikange01,MNL
