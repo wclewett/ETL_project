@@ -1,74 +1,74 @@
-Year,Lg,Team,name,College_x,College_y,School_ID,Player_ID
-2017,NBA,Philadelphia 76ers,Markelle Fultz,Washington,University of Washington,S0420,fultzma01
-2016,NBA,Philadelphia 76ers,Ben Simmons,LSU,Louisiana State University,S0178,simmobe01
-2015,NBA,Minnesota Timberwolves,Karl-Anthony Towns,Kentucky,University of Kentucky,S0358,townska01
-2014,NBA,Cleveland Cavaliers,Andrew Wiggins,Kansas,University of Kansas,S0357,wiggian01
-2013,NBA,Cleveland Cavaliers,Anthony Bennett,UNLV,"University of Nevada, Las Vegas",S0378,bennean01
-2012,NBA,New Orleans Hornets,Anthony Davis,Kentucky,University of Kentucky,S0358,davisan02
-2011,NBA,Cleveland Cavaliers,Kyrie Irving,Duke,Duke University,S0096,irvinky01
-2010,NBA,Washington Wizards,John Wall,Kentucky,University of Kentucky,S0358,walljo01
-2009,NBA,Los Angeles Clippers,Blake Griffin,Oklahoma,University of Oklahoma,S0389,griffbl01
-2008,NBA,Chicago Bulls,Derrick Rose,Memphis,University of Memphis,S0366,rosede01
-2007,NBA,Portland Trail Blazers,Greg Oden,Ohio State,Ohio State University,S0233,odengr01
-2006,NBA,Toronto Raptors,Andrea Bargnani,,International/High School Prospect,S0152,bargnan01
-2005,NBA,Milwaukee Bucks,Andrew Bogut,Utah,University of Utah,S0418,bogutan01
-2004,NBA,Orlando Magic,Dwight Howard,,International/High School Prospect,S0152,howardw01
-2003,NBA,Cleveland Cavaliers,LeBron James,,International/High School Prospect,S0152,jamesle01
-2002,NBA,Houston Rockets,Yao Ming,,International/High School Prospect,S0152,mingya01
-2001,NBA,Washington Wizards,Kwame Brown,,International/High School Prospect,S0152,brownkw01
-2000,NBA,New Jersey Nets,Kenyon Martin,Cincinnati,University of Cincinnati,S0341,martike01
-1999,NBA,Chicago Bulls,Elton Brand,Duke,Duke University,S0096,brandel01
-1998,NBA,Los Angeles Clippers,Michael Olowokandi,University of the Pacific,University of the Pacific,S0430,olowomi01
-1997,NBA,San Antonio Spurs,Tim Duncan,Wake Forest,Wake Forest University,S0442,duncati01
-1996,NBA,Philadelphia 76ers,Allen Iverson,Georgetown,Georgetown University,S0123,iversal01
-1995,NBA,Golden State Warriors,Joe Smith,Maryland,University of Maryland,S0363,smithjo02
-1994,NBA,Milwaukee Bucks,Glenn Robinson,Purdue,Purdue University,S0255,robingl01
-1994,NBA,Milwaukee Bucks,Glenn Robinson,Purdue,Purdue University,S0255,robingl02
-1993,NBA,Orlando Magic,Chris Webber,Michigan,University of Michigan,S0368,webbech01
-1992,NBA,Orlando Magic,Shaquille O'Neal,LSU,Louisiana State University,S0178,onealsh01
-1991,NBA,Charlotte Hornets,Larry Johnson,UNLV,University of Kentucky,S0358,johnsla01
-1991,NBA,Charlotte Hornets,Larry Johnson,UNLV,University of Kentucky,S0358,johnsla02
-1990,NBA,New Jersey Nets,Derrick Coleman,Syracuse,Syracuse University,S0303,colemde01
-1989,NBA,Sacramento Kings,Pervis Ellison,Louisville,University of Louisville,S0361,ellispe01
-1988,NBA,Los Angeles Clippers,Danny Manning,Kansas,University of Kansas,S0357,mannida01
-1987,NBA,San Antonio Spurs,David Robinson,United States Naval Academy,United States Naval Academy,S0321,robinda01
-1986,NBA,Cleveland Cavaliers,Brad Daugherty,UNC,University of North Carolina,S0382,daughbr01
-1985,NBA,New York Knicks,Patrick Ewing,Georgetown,Georgetown University,S0123,ewingpa01
-1985,NBA,New York Knicks,Patrick Ewing,Georgetown,Georgetown University,S0123,ewingpa02
-1984,NBA,Houston Rockets,Hakeem Olajuwon,Houston,University of Houston,S0352,olajuha01
-1983,NBA,Houston Rockets,Ralph Sampson,Virginia,University of Virginia,S0419,sampsra01
-1982,NBA,Los Angeles Lakers,James Worthy,UNC,University of North Carolina,S0382,worthja01
-1981,NBA,Dallas Mavericks,Mark Aguirre,DePaul,DePaul University,S0089,aguirma01
-1980,NBA,Golden State Warriors,Joe Barry Carroll,Purdue,Purdue University,S0255,carrojo01
-1979,NBA,Los Angeles Lakers,Magic Johnson,Michigan State,Michigan State University,S0192,johnsma02
-1978,NBA,Portland Trail Blazers,Mychal Thompson,Minnesota,University of Minnesota,S0369,thompmy01
-1977,NBA,Milwaukee Bucks,Kent Benson,Indiana,Indiana University,S0150,bensoke01
-1976,NBA,Houston Rockets,John Lucas,Maryland,University of Maryland,S0363,lucasjo01
-1975,NBA,Atlanta Hawks,David Thompson,NC State,North Carolina State University,S0221,thompda01
-1974,NBA,Portland Trail Blazers,Bill Walton,UCLA,"University of California, Los Angeles",S0334,waltobi01
-1973,NBA,Philadelphia 76ers,Doug Collins,Illinois State,Illinois State University,S0146,collido01
-1972,NBA,Portland Trail Blazers,LaRue Martin,Loyola Chicago,Loyola University of Chicago,S0182,martila01
-1971,NBA,Cleveland Cavaliers,Austin Carr,Notre Dame,University of Notre Dame,S0388,carrau01
-1970,NBA,Detroit Pistons,Bob Lanier,St. Bonaventure,St. Bonaventure University,S0292,laniebo01
-1969,NBA,Milwaukee Bucks,Kareem Abdul-Jabbar,UCLA,"University of California, Los Angeles",S0334,abdulka01
-1968,NBA,San Diego Rockets,Elvin Hayes,Houston,University of Houston,S0352,hayesel01
-1967,NBA,Detroit Pistons,Jimmy Walker,Providence,Providence College,S0254,walkeji01
-1966,NBA,New York Knicks,Cazzie Russell,Michigan,University of Michigan,S0368,russeca01
-1965,NBA,San Francisco Warriors,Fred Hetzel,Davidson,Davidson College,S0087,hetzefr01
-1964,NBA,New York Knicks,Jim Barnes,Texas-El Paso,University of Texas at El Paso,S0413,barneji01
-1963,NBA,New York Knicks,Art Heyman,Duke,Duke University,S0096,heymaar01
-1962,NBA,Chicago Zephyrs,Bill McGill,Utah,University of Utah,S0418,mcgilbi01
-1961,NBA,Chicago Packers,Walt Bellamy,Indiana,Indiana University,S0150,bellawa01
-1960,NBA,Cincinnati Royals,Oscar Robertson,Cincinnati,University of Cincinnati,S0341,roberos01
-1959,NBA,Cincinnati Royals,Bob Boozer,Kansas State,Kansas State University,S0160,boozebo01
-1958,NBA,Minneapolis Lakers,Elgin Baylor,Seattle University,Seattle University,S0277,bayloel01
-1957,NBA,Cincinnati Royals,Hot Rod Hundley,West Virginia,West Virginia University,S0450,hundlho01
-1956,NBA,Rochester Royals,Si Green,Duquesne,Duquesne University,S0097,greensi01
-1955,NBA,St. Louis Hawks,Dick Ricketts,Duquesne,Duquesne University,S0097,rickedi01
-1954,NBA,Baltimore Bullets,Frank Selvy,Furman University,Furman University,S0118,selvyfr01
-1953,NBA,Baltimore Bullets,Ray Felix,Long Island University,Long Island University,S0176,felixra01
-1952,NBA,Milwaukee Hawks,Mark Workman,West Virginia,West Virginia University,S0450,workmma01
-1951,NBA,Baltimore Bullets,Gene Melchiorre,Bradley,,,
-1950,NBA,Boston Celtics,Chuck Share,Bowling Green,Bowling Green State University,S0038,sharech01
-1949,BAA,Providence Steamrollers,Howie Shannon,Kansas State,Kansas State University,S0160,shannho01
-1948,BAA,Providence Steamrollers,Andy Tonkovich,Marshall,Marshall University,S0186,tonkoan01
+Year,Lg,Team,name,School,School_ID,Player_ID
+2017,NBA,Philadelphia 76ers,Markelle Fultz,University of Washington,S0420,fultzma01
+2016,NBA,Philadelphia 76ers,Ben Simmons,Louisiana State University,S0178,simmobe01
+2015,NBA,Minnesota Timberwolves,Karl-Anthony Towns,University of Kentucky,S0358,townska01
+2014,NBA,Cleveland Cavaliers,Andrew Wiggins,University of Kansas,S0357,wiggian01
+2013,NBA,Cleveland Cavaliers,Anthony Bennett,"University of Nevada, Las Vegas",S0378,bennean01
+2012,NBA,New Orleans Hornets,Anthony Davis,University of Kentucky,S0358,davisan02
+2011,NBA,Cleveland Cavaliers,Kyrie Irving,Duke University,S0096,irvinky01
+2010,NBA,Washington Wizards,John Wall,University of Kentucky,S0358,walljo01
+2009,NBA,Los Angeles Clippers,Blake Griffin,University of Oklahoma,S0389,griffbl01
+2008,NBA,Chicago Bulls,Derrick Rose,University of Memphis,S0366,rosede01
+2007,NBA,Portland Trail Blazers,Greg Oden,Ohio State University,S0233,odengr01
+2006,NBA,Toronto Raptors,Andrea Bargnani,International/High School Prospect,S0152,bargnan01
+2005,NBA,Milwaukee Bucks,Andrew Bogut,University of Utah,S0418,bogutan01
+2004,NBA,Orlando Magic,Dwight Howard,International/High School Prospect,S0152,howardw01
+2003,NBA,Cleveland Cavaliers,LeBron James,International/High School Prospect,S0152,jamesle01
+2002,NBA,Houston Rockets,Yao Ming,International/High School Prospect,S0152,mingya01
+2001,NBA,Washington Wizards,Kwame Brown,International/High School Prospect,S0152,brownkw01
+2000,NBA,New Jersey Nets,Kenyon Martin,University of Cincinnati,S0341,martike01
+1999,NBA,Chicago Bulls,Elton Brand,Duke University,S0096,brandel01
+1998,NBA,Los Angeles Clippers,Michael Olowokandi,University of the Pacific,S0430,olowomi01
+1997,NBA,San Antonio Spurs,Tim Duncan,Wake Forest University,S0442,duncati01
+1996,NBA,Philadelphia 76ers,Allen Iverson,Georgetown University,S0123,iversal01
+1995,NBA,Golden State Warriors,Joe Smith,University of Maryland,S0363,smithjo02
+1994,NBA,Milwaukee Bucks,Glenn Robinson,Purdue University,S0255,robingl01
+1994,NBA,Milwaukee Bucks,Glenn Robinson,Purdue University,S0255,robingl02
+1993,NBA,Orlando Magic,Chris Webber,University of Michigan,S0368,webbech01
+1992,NBA,Orlando Magic,Shaquille O'Neal,Louisiana State University,S0178,onealsh01
+1991,NBA,Charlotte Hornets,Larry Johnson,University of Kentucky,S0358,johnsla01
+1991,NBA,Charlotte Hornets,Larry Johnson,University of Kentucky,S0358,johnsla02
+1990,NBA,New Jersey Nets,Derrick Coleman,Syracuse University,S0303,colemde01
+1989,NBA,Sacramento Kings,Pervis Ellison,University of Louisville,S0361,ellispe01
+1988,NBA,Los Angeles Clippers,Danny Manning,University of Kansas,S0357,mannida01
+1987,NBA,San Antonio Spurs,David Robinson,United States Naval Academy,S0321,robinda01
+1986,NBA,Cleveland Cavaliers,Brad Daugherty,University of North Carolina,S0382,daughbr01
+1985,NBA,New York Knicks,Patrick Ewing,Georgetown University,S0123,ewingpa01
+1985,NBA,New York Knicks,Patrick Ewing,Georgetown University,S0123,ewingpa02
+1984,NBA,Houston Rockets,Hakeem Olajuwon,University of Houston,S0352,olajuha01
+1983,NBA,Houston Rockets,Ralph Sampson,University of Virginia,S0419,sampsra01
+1982,NBA,Los Angeles Lakers,James Worthy,University of North Carolina,S0382,worthja01
+1981,NBA,Dallas Mavericks,Mark Aguirre,DePaul University,S0089,aguirma01
+1980,NBA,Golden State Warriors,Joe Barry Carroll,Purdue University,S0255,carrojo01
+1979,NBA,Los Angeles Lakers,Magic Johnson,Michigan State University,S0192,johnsma02
+1978,NBA,Portland Trail Blazers,Mychal Thompson,University of Minnesota,S0369,thompmy01
+1977,NBA,Milwaukee Bucks,Kent Benson,Indiana University,S0150,bensoke01
+1976,NBA,Houston Rockets,John Lucas,University of Maryland,S0363,lucasjo01
+1975,NBA,Atlanta Hawks,David Thompson,North Carolina State University,S0221,thompda01
+1974,NBA,Portland Trail Blazers,Bill Walton,"University of California, Los Angeles",S0334,waltobi01
+1973,NBA,Philadelphia 76ers,Doug Collins,Illinois State University,S0146,collido01
+1972,NBA,Portland Trail Blazers,LaRue Martin,Loyola University of Chicago,S0182,martila01
+1971,NBA,Cleveland Cavaliers,Austin Carr,University of Notre Dame,S0388,carrau01
+1970,NBA,Detroit Pistons,Bob Lanier,St. Bonaventure University,S0292,laniebo01
+1969,NBA,Milwaukee Bucks,Kareem Abdul-Jabbar,"University of California, Los Angeles",S0334,abdulka01
+1968,NBA,San Diego Rockets,Elvin Hayes,University of Houston,S0352,hayesel01
+1967,NBA,Detroit Pistons,Jimmy Walker,Providence College,S0254,walkeji01
+1966,NBA,New York Knicks,Cazzie Russell,University of Michigan,S0368,russeca01
+1965,NBA,San Francisco Warriors,Fred Hetzel,Davidson College,S0087,hetzefr01
+1964,NBA,New York Knicks,Jim Barnes,University of Texas at El Paso,S0413,barneji01
+1963,NBA,New York Knicks,Art Heyman,Duke University,S0096,heymaar01
+1962,NBA,Chicago Zephyrs,Bill McGill,University of Utah,S0418,mcgilbi01
+1961,NBA,Chicago Packers,Walt Bellamy,Indiana University,S0150,bellawa01
+1960,NBA,Cincinnati Royals,Oscar Robertson,University of Cincinnati,S0341,roberos01
+1959,NBA,Cincinnati Royals,Bob Boozer,Kansas State University,S0160,boozebo01
+1958,NBA,Minneapolis Lakers,Elgin Baylor,Seattle University,S0277,bayloel01
+1957,NBA,Cincinnati Royals,Hot Rod Hundley,West Virginia University,S0450,hundlho01
+1956,NBA,Rochester Royals,Si Green,Duquesne University,S0097,greensi01
+1955,NBA,St. Louis Hawks,Dick Ricketts,Duquesne University,S0097,rickedi01
+1954,NBA,Baltimore Bullets,Frank Selvy,Furman University,S0118,selvyfr01
+1953,NBA,Baltimore Bullets,Ray Felix,Long Island University,S0176,felixra01
+1952,NBA,Milwaukee Hawks,Mark Workman,West Virginia University,S0450,workmma01
+1951,NBA,Baltimore Bullets,Gene Melchiorre,,,
+1950,NBA,Boston Celtics,Chuck Share,Bowling Green State University,S0038,sharech01
+1949,BAA,Providence Steamrollers,Howie Shannon,Kansas State University,S0160,shannho01
+1948,BAA,Providence Steamrollers,Andy Tonkovich,Marshall University,S0186,tonkoan01
