@@ -1,5 +1,4 @@
 Year,Lg,Team,name,School,School_ID,Player_ID
-2017,NBA,Philadelphia 76ers,Markelle Fultz,University of Washington,S0420,fultzma01
 2016,NBA,Philadelphia 76ers,Ben Simmons,Louisiana State University,S0178,simmobe01
 2015,NBA,Minnesota Timberwolves,Karl-Anthony Towns,University of Kentucky,S0358,townska01
 2014,NBA,Cleveland Cavaliers,Andrew Wiggins,University of Kansas,S0357,wiggian01
@@ -68,7 +67,6 @@ Year,Lg,Team,name,School,School_ID,Player_ID
 1954,NBA,Baltimore Bullets,Frank Selvy,Furman University,S0118,selvyfr01
 1953,NBA,Baltimore Bullets,Ray Felix,Long Island University,S0176,felixra01
 1952,NBA,Milwaukee Hawks,Mark Workman,West Virginia University,S0450,workmma01
-1951,NBA,Baltimore Bullets,Gene Melchiorre,,,
 1950,NBA,Boston Celtics,Chuck Share,Bowling Green State University,S0038,sharech01
 1949,BAA,Providence Steamrollers,Howie Shannon,Kansas State University,S0160,shannho01
 1948,BAA,Providence Steamrollers,Andy Tonkovich,Marshall University,S0186,tonkoan01

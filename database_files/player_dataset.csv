@@ -1,4 +1,4 @@
-active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years Active,School,School_ID
+active_from,active_to,birth_date,height,name,position,player_id,weight,NBA_Years_Active,School,School_ID
 1991,1995,24-Jun-68,82,Alaa Abdelnaby,F-C,abdelal01,240.0,5,Duke University,S0096
 1969,1978,7-Apr-46,81,Zaid Abdul-Aziz,C-F,abdulza01,235.0,10,Iowa State University,S0154
 1970,1989,16-Apr-47,86,Kareem Abdul-Jabbar,C,abdulka01,225.0,20,"University of California, Los Angeles",S0334
@@ -397,7 +397,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1978,1978,28-Jan-53,79,Jim Bostic,F,bostiji01,225.0,1,New Mexico State University,S0214
 1980,1980,18-May-56,80,Lawrence Boston,F,bostola01,225.0,1,University of Maryland,S0363
 1976,1984,2-Oct-53,81,Tom Boswell,F-C,bosweto01,220.0,9,University of South Carolina,S0402
-2018,2018,11-Jan-93,82,Chris Boucher,F,bouchch01,182.0,1,,
+2018,2018,11-Jan-93,82,Chris Boucher,F,bouchch01,182.0,1,International/High School Prospect,S0152
 2002,2004,20-May-78,85,Ruben Boumtje-Boumtje,C,boumtru01,257.0,3,Georgetown University,S0123
 1950,1953,6-Mar-25,76,Don Boven,F-G,bovendo01,210.0,4,Western Michigan University,S0457
 2000,2002,31-Mar-77,82,Cal Bowdler,F,bowdlca01,245.0,3,Old Dominion University,S0241
@@ -1048,8 +1048,8 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1948,1948,11-Nov-23,78,Bill Downey,C,downebi01,210.0,1,Marquette University,S0185
 1974,1975,9-Sep-50,80,Steve Downing,C,downist01,225.0,2,Indiana University,S0150
 1963,1963,6-Feb-40,80,Danny Doyle,F,doyleda01,200.0,1,Belmont Abbey College,S0026
-2018,2018,31-Oct-93,76,Milton Doyle,G,doylemi01,185.0,1,,
-2018,2018,25-Oct-96,79,PJ Dozier,G,doziepj01,201.0,1,,
+2018,2018,31-Oct-93,76,Milton Doyle,G,doylemi01,185.0,1,International/High School Prospect,S0152
+2018,2018,25-Oct-96,79,PJ Dozier,G,doziepj01,201.0,1,International/High School Prospect,S0152
 1990,1990,29-Jun-66,81,Terry Dozier,F,doziete01,210.0,1,University of South Carolina,S0402
 2009,2018,6-May-86,75,Goran Dragic,G,dragigo01,190.0,10,International/High School Prospect,S0152
 2015,2015,22-Jun-89,77,Zoran Dragic,G-F,dragizo01,200.0,1,International/High School Prospect,S0152
@@ -1496,7 +1496,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1998,1999,27-Sep-75,75,Ed Gray,G,grayed01,210.0,2,University of California,S0332
 1997,1997,13-Dec-69,79,Evric Gray,F,grayev01,235.0,1,"University of Nevada, Las Vegas",S0378
 1968,1968,23-Feb-45,73,Gary Gray,G,grayga01,185.0,1,Oklahoma City University,S0238
-2018,2018,9-Sep-93,73,Josh Gray,G,grayjo01,180.0,1,,
+2018,2018,9-Sep-93,73,Josh Gray,G,grayjo01,180.0,1,International/High School Prospect,S0152
 1975,1977,19-Dec-51,80,Leonard Gray,F,grayle01,240.0,3,"California State University, Long Beach",S0052
 1985,1991,27-May-63,85,Stuart Gray,C-F,grayst01,235.0,7,"University of California, Los Angeles",S0334
 1989,1989,8-Jul-67,78,Sylvester Gray,F,graysy01,230.0,1,University of Memphis,S0366
@@ -1673,7 +1673,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 2017,2018,28-Oct-94,78,Andrew Harrison,G,harrian01,213.0,2,University of Kentucky,S0358
 1950,1958,12-Aug-27,73,Bob Harrison,G,harribo02,190.0,9,University of Michigan,S0368
 2005,2008,15-Aug-82,85,David Harrison,C,harrida01,280.0,4,University of Colorado,S0342
-2018,2018,6-Oct-93,76,Shaquille Harrison,G,harrish01,190.0,1,,
+2018,2018,6-Oct-93,76,Shaquille Harrison,G,harrish01,190.0,1,International/High School Prospect,S0152
 2001,2010,29-Apr-78,75,Jason Hart,G,hartja01,185.0,10,Syracuse University,S0303
 2018,2018,6-Mar-95,77,Josh Hart,G,hartjo01,209.0,1,Villanova University,S0436
 1994,2003,6-Jul-70,83,Antonio Harvey,F-C,harvean01,225.0,10,Pfeiffer University,S0248
@@ -1690,7 +1690,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1963,1978,8-Apr-40,77,John Havlicek,F-G,havlijo01,203.0,16,Ohio State University,S0233
 2008,2017,28-Apr-88,85,Spencer Hawes,C-F,hawessp01,245.0,10,University of Washington,S0420
 1975,1984,26-May-50,81,Steve Hawes,C-F,hawesst01,220.0,10,University of Washington,S0420
-1976,1979,30-Jun-54,76,Bubbles Hawkins,G,hawkiro01,190.0,4,,
+1976,1979,30-Jun-54,76,Bubbles Hawkins,G,hawkiro01,190.0,4,International/High School Prospect,S0152
 1968,1976,17-Jul-42,80,Connie Hawkins,F-C,hawkico01,210.0,9,University of Iowa,S0356
 1989,2001,29-Sep-66,75,Hersey Hawkins,G,hawkihe01,190.0,13,Bradley University,S0039
 2003,2003,2-Jul-73,79,Juaquin Hawkins,G-F,hawkiju01,220.0,1,"California State University, Long Beach",S0052
@@ -1702,7 +1702,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1969,1984,17-Nov-45,81,Elvin Hayes,F-C,hayesel01,235.0,16,University of Houston,S0352
 2004,2010,9-Aug-81,79,Jarvis Hayes,F,hayesja01,220.0,7,University of Georgia,S0349
 1971,1971,18-Feb-48,75,Jim Hayes,G,hayesji01,200.0,1,Boston University,S0037
-2018,2018,16-Dec-94,80,Nigel Hayes,F,hayesni01,254.0,1,,
+2018,2018,16-Dec-94,80,Nigel Hayes,F,hayesni01,254.0,1,International/High School Prospect,S0152
 1982,1986,2-Aug-55,85,Steve Hayes,C,hayesst01,205.0,5,Idaho State University,S0145
 2011,2018,23-Mar-90,80,Gordon Hayward,F-G,haywago01,226.0,8,Butler University,S0046
 2011,2013,26-Nov-86,78,Lazar Hayward,F,haywala01,225.0,3,Marquette University,S0185
@@ -1714,7 +1714,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1997,2004,6-Sep-70,73,Shane Heal,G,healsh01,180.0,8,International/High School Prospect,S0152
 1970,1970,3-Sep-46,74,Brian Heaney,G,heanebr01,180.0,1,Acadia University,S0000
 1971,1981,3-May-48,78,Gar Heard,F,heardga01,219.0,11,University of Oklahoma,S0389
-2018,2018,14-Aug-91,77,Reggie Hearn,G,hearnre01,210.0,1,,
+2018,2018,14-Aug-91,77,Reggie Hearn,G,hearnre01,210.0,1,International/High School Prospect,S0152
 1955,1955,10-Jan-30,77,Herm Hedderick,G,heddehe01,170.0,1,Canisius College,S0058
 1996,1996,12-Dec-67,80,Alvin Heggs,F,heggsal01,225.0,1,University of Texas at Austin,S0412
 1957,1965,26-Aug-34,79,Tom Heinsohn,F-C,heinsto01,218.0,9,College of the Holy Cross,S0078
@@ -1736,7 +1736,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1949,1950,27-Dec-24,81,Bill Henry,C,henrybi01,215.0,2,Rice University,S0257
 1986,1986,16-Aug-60,78,Carl Henry,G,henryca01,205.0,1,University of Kansas,S0357
 1987,1988,21-Jul-63,79,Conner Henry,G,henryco01,195.0,2,"University of California, Santa Barbara",S0336
-2018,2018,23-Dec-92,78,Myke Henry,F,henrymy01,210.0,1,,
+2018,2018,23-Dec-92,78,Myke Henry,F,henrymy01,210.0,1,International/High School Prospect,S0152
 1994,1994,8-Dec-67,79,Skeeter Henry,G,henrysk01,190.0,1,University of Oklahoma,S0389
 2011,2015,15-Mar-91,78,Xavier Henry,G,henryxa01,220.0,5,University of Kansas,S0357
 2013,2018,28-Dec-90,83,John Henson,C-F,hensojo01,229.0,6,University of North Carolina,S0382
@@ -1759,7 +1759,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 2016,2018,25-Feb-95,80,Mario Hezonja,F-G,hezonma01,215.0,3,International/High School Prospect,S0152
 2009,2017,11-Dec-86,86,Roy Hibbert,C,hibbero01,270.0,9,Georgetown University,S0123
 1948,1948,30-Jan-02,71,Nat Hickey,G-F,hickena01,180.0,1,International/High School Prospect,S0152
-2018,2018,24-Jul-94,81,Isaiah Hicks,F,hicksis01,233.0,1,,
+2018,2018,24-Jul-94,81,Isaiah Hicks,F,hicksis01,233.0,1,International/High School Prospect,S0152
 1977,1979,31-Jan-53,79,Phil Hicks,F,hicksph01,205.0,3,Tulane University,S0318
 2009,2016,4-Sep-88,81,J.J. Hickson,F-C,hicksjj01,242.0,8,North Carolina State University,S0221
 2017,2018,17-Dec-93,76,Buddy Hield,G,hieldbu01,214.0,2,University of Oklahoma,S0389
@@ -2047,7 +2047,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1967,1973,17-Apr-43,79,Neil Johnson,F-C,johnsne02,220.0,7,Creighton University,S0083
 2015,2015,22-Dec-92,75,Nick Johnson,G,johnsni01,202.0,1,University of Arizona,S0326
 1973,1982,11-May-49,78,Ollie Johnson,F,johnsol01,200.0,10,Temple University,S0304
-2018,2018,26-Nov-89,81,Omari Johnson,F,johnsom01,220.0,1,,
+2018,2018,26-Nov-89,81,Omari Johnson,F,johnsom01,220.0,1,International/High School Prospect,S0152
 2013,2016,11-Mar-89,77,Orlando Johnson,G,johnsor01,220.0,4,"University of California, Santa Barbara",S0336
 1950,1953,6-Dec-21,71,Ralph Johnson,G,johnsra01,170.0,4,Huntington University,S0144
 1981,1984,25-Jun-57,81,Reggie Johnson,F-C,johnsre01,205.0,4,University of Tennessee,S0409
@@ -2217,7 +2217,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1964,1973,7-Feb-41,74,Jim King,G,kingji01,175.0,10,University of Tulsa,S0417
 1996,1997,9-Aug-73,77,Jimmy King,G,kingji02,210.0,2,University of Michigan,S0368
 1972,1973,29-May-49,74,Loyd King,G,kinglo01,180.0,2,Virginia Polytechnic Institute and State University,S0439
-1960,1963,12-Mar-35,74,Maurice King,G,kingma01,195.0,4,,
+1960,1963,12-Mar-35,74,Maurice King,G,kingma01,195.0,4,International/High School Prospect,S0152
 1980,1985,14-Feb-57,78,Reggie King,F,kingre01,225.0,6,University of Alabama,S0324
 1992,1995,4-Apr-69,86,Rich King,C,kingri01,260.0,4,University of Nebraska,S0376
 1974,1974,11-Jul-51,76,Ron King,G,kingro01,185.0,1,Florida State University,S0113
@@ -2263,7 +2263,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1983,1985,12-Jun-60,81,Joe Kopicki,F,kopicjo01,240.0,3,University of Detroit Mercy,S0346
 2018,2018,24-Jul-97,79,Furkan Korkmaz,G,korkmfu01,185.0,1,International/High School Prospect,S0152
 1990,1991,27-Jan-67,81,Frank Kornet,F,kornefr01,225.0,2,Vanderbilt University,S0435
-2018,2018,15-Jul-95,85,Luke Kornet,F,kornelu01,250.0,1,,
+2018,2018,15-Jul-95,85,Luke Kornet,F,kornelu01,250.0,1,International/High School Prospect,S0152
 2006,2007,7-May-87,81,Yaroslav Korolev,F,korolya01,203.0,2,International/High School Prospect,S0152
 2004,2018,17-Mar-81,79,Kyle Korver,G-F,korveky01,212.0,15,Creighton University,S0083
 1969,1969,26-Jun-46,80,Tony Koski,F,koskito01,215.0,1,Providence College,S0254
@@ -2368,7 +2368,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1979,1980,5-Dec-56,73,Butch Lee,G,leebu01,185.0,2,Marquette University,S0185
 1967,1976,14-Mar-44,82,Clyde Lee,F-C,leecl01,205.0,10,Vanderbilt University,S0435
 2009,2018,3-Oct-85,77,Courtney Lee,G,leeco01,200.0,10,Western Kentucky University,S0456
-2018,2018,21-Oct-92,78,Damion Lee,G,leeda03,210.0,1,,
+2018,2018,21-Oct-92,78,Damion Lee,G,leeda03,210.0,1,International/High School Prospect,S0152
 1968,1969,31-Mar-42,79,David Lee,F,leeda01,225.0,2,University of San Francisco,S0399
 2006,2017,29-Apr-83,81,David Lee,F,leeda02,245.0,12,University of San Francisco,S0399
 1968,1968,,78,Dick Lee,F,leedi01,,1,University of Washington,S0420
@@ -2385,7 +2385,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1947,1947,31-Aug-23,74,Hank Lefkowitz,F,lefkoha01,190.0,1,Case Western Reserve University,S0059
 1990,2000,26-Dec-66,76,Tim Legler,G,legleti01,200.0,11,La Salle University,S0166
 1968,1974,1-May-42,73,George Lehmann,G,lehmage01,180.0,7,Campbell University,S0057
-2018,2018,26-Jul-92,75,"Walt Lemon, Jr.",G,lemonwa01,180.0,1,,
+2018,2018,26-Jul-92,75,"Walt Lemon, Jr.",G,lemonwa01,180.0,1,International/High School Prospect,S0152
 2014,2018,16-Jun-93,85,Alex Len,C,lenal01,260.0,5,University of Maryland,S0363
 1996,2006,14-May-73,76,Voshon Lenard,G,lenarvo01,205.0,11,University of Minnesota,S0369
 1968,1969,23-Feb-45,78,Leary Lentz,F,lentzle01,200.0,2,University of Houston,S0352
@@ -2641,7 +2641,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 2007,2007,27-May-84,77,Chris McCray,G,mccrach01,192.0,1,University of Maryland,S0363
 1984,1993,29-Aug-61,79,Rodney McCray,F-G,mccraro01,220.0,10,University of Louisville,S0361
 1984,1987,8-Feb-60,81,Scooter McCray,F-G,mccrasc01,215.0,4,University of Louisville,S0361
-2018,2018,20-Dec-93,80,Erik McCree,F,mccreer01,225.0,1,,
+2018,2018,20-Dec-93,80,Erik McCree,F,mccreer01,225.0,1,International/High School Prospect,S0152
 2016,2018,5-Feb-95,83,Chris McCullough,F,mcculch01,200.0,3,Syracuse University,S0303
 1982,1982,5-Oct-56,76,John McCullough,G,mcculjo01,190.0,1,University of Oklahoma,S0389
 1996,1996,26-Feb-72,76,Clint McDaniel,G,mcdancl01,180.0,1,University of Arkansas,S0327
@@ -2688,7 +2688,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1979,1986,5-Jun-55,73,Billy McKinney,G,mckinbi01,160.0,8,Northwestern University,S0230
 1947,1952,1-Jan-19,78,Bones McKinney,F-C,mckinbo01,185.0,6,University of North Carolina,S0382
 1990,1992,21-Oct-64,76,Carlton McKinney,G,mckinca01,190.0,3,Southern Methodist University,S0289
-2018,2018,27-Aug-90,77,Trey McKinney-Jones,G,mckintr01,214.0,1,,
+2018,2018,27-Aug-90,77,Trey McKinney-Jones,G,mckintr01,214.0,1,International/High School Prospect,S0152
 2018,2018,17-Sep-92,80,Alfonzo McKinnie,F,mckinal01,215.0,1,University of Wisconsin-Green Bay,S0424
 2014,2018,11-Feb-93,77,Ben McLemore,G,mclembe01,195.0,5,University of Kansas,S0357
 1965,1972,3-Apr-42,79,McCoy McLemore,F-C,mclemmc01,230.0,8,Drake University,S0094
@@ -2802,7 +2802,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1989,1989,26-Jul-66,79,Todd Mitchell,F,mitchto01,205.0,1,Purdue University,S0255
 2014,2014,7-Aug-89,78,Tony Mitchell,F,mitchto03,216.0,1,University of Alabama,S0324
 2014,2014,7-Apr-92,80,Tony Mitchell,F,mitchto02,235.0,1,University of Alabama,S0324
-2018,2018,3-Aug-93,76,Naz Mitrou-Long,G,mitrona01,209.0,1,,
+2018,2018,3-Aug-93,76,Naz Mitrou-Long,G,mitrona01,209.0,1,International/High School Prospect,S0152
 1970,1983,30-Dec-47,79,Steve Mix,F,mixst01,215.0,14,University of Toledo,S0416
 1953,1953,19-Jan-31,76,Bill Mlkvy,F,mlkvybi01,190.0,1,Temple University,S0304
 1999,2009,1-Sep-75,76,Cuttino Mobley,G,moblecu01,190.0,11,University of Rhode Island,S0395
@@ -2828,7 +2828,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 2008,2012,13-Jun-80,80,Jamario Moon,F,moonja01,205.0,5,Meridian Community College,S0190
 1953,1953,8-Jul-30,77,Jim Mooney,F,mooneji01,215.0,1,Villanova University,S0436
 1988,1988,2-Jul-64,81,Andre Moore,F,moorean01,215.0,1,Loyola University of Chicago,S0182
-2018,2018,13-May-95,79,Ben Moore,F,moorebe01,203.0,1,,
+2018,2018,13-May-95,79,Ben Moore,F,moorebe01,203.0,1,International/High School Prospect,S0152
 2012,2018,28-Feb-89,76,E'Twaun Moore,G,mooreet01,191.0,7,Purdue University,S0255
 1969,1975,29-Jul-45,81,Gene Moore,C-F,moorege01,225.0,7,Saint Louis University,S0265
 1955,1957,24-Sep-32,77,Jackie Moore,F,mooreja01,180.0,3,La Salle University,S0166
@@ -2849,7 +2849,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1989,1999,20-Jan-66,80,Chris Morris,F,morrich01,210.0,11,Auburn University,S0014
 2012,2015,3-Jan-91,76,Darius Morris,G,morrida01,190.0,4,University of Michigan,S0368
 1993,1993,2-Apr-69,80,Isaiah Morris,F,morriis01,229.0,1,University of Arkansas,S0327
-2018,2018,19-Sep-95,77,Jaylen Morris,G,morrija01,185.0,1,,
+2018,2018,19-Sep-95,77,Jaylen Morris,G,morrija01,185.0,1,International/High School Prospect,S0152
 2012,2018,2-Sep-89,81,Marcus Morris,F,morrima03,235.0,7,University of Kansas,S0357
 2012,2018,2-Sep-89,82,Markieff Morris,F,morrima02,245.0,7,University of Kansas,S0357
 1950,1950,14-Mar-25,74,Max Morris,F-C,morrima01,195.0,1,Northwestern University,S0230
@@ -3147,7 +3147,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1972,1976,24-Jun-48,81,Steve Patterson,C,pattest01,225.0,5,"University of California, Los Angeles",S0334
 1973,1974,15-Oct-48,78,Tom Patterson,F,patteto01,220.0,2,Ouachita Baptist University,S0245
 1958,1958,17-Jun-31,74,Worthy Patterson,G,pattewo01,175.0,1,University of Connecticut,S0343
-2018,2018,14-Jun-97,83,Justin Patton,C,pattoju01,229.0,1,,
+2018,2018,14-Jun-97,83,Justin Patton,C,pattoju01,229.0,1,International/High School Prospect,S0152
 2018,2018,30-Apr-91,76,Brandon Paul,G,paulbr01,200.0,1,University of Illinois at Urbana-Champaign,S0355
 2006,2018,6-May-85,73,Chris Paul,G,paulch01,175.0,13,Wake Forest University,S0442
 1969,1972,14-Jun-46,80,Charlie Paulk,F-C,paulkch01,219.0,4,Northeastern State University,S0224
@@ -3298,7 +3298,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1949,1949,16-Oct-22,78,Roy Pugh,C-F,pughro01,210.0,1,Southern Methodist University,S0289
 1993,1993,23-Jun-66,82,Anthony Pullard,F,pullaan01,245.0,1,McNeese State University,S0188
 2018,2018,10-Nov-89,73,Jacob Pullen,G,pulleja01,200.0,1,Kansas State University,S0160
-2018,2018,14-Feb-94,76,Rodney Purvis,G,purviro01,205.0,1,,
+2018,2018,14-Feb-94,76,Rodney Purvis,G,purviro01,205.0,1,International/High School Prospect,S0152
 1947,1950,13-Nov-22,73,Don Putman,G,putnado01,170.0,4,University of Denver,S0345
 2018,2018,16-Jan-96,85,Zhou Qi,F-C,qizh01,210.0,1,International/High School Prospect,S0152
 2017,2018,27-Oct-94,78,Tim Quarterman,G,quartti01,195.0,2,Louisiana State University,S0178
@@ -3337,7 +3337,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1952,1952,23-Jun-28,73,Sam Ranzino,G,ranzisa01,185.0,1,North Carolina State University,S0221
 1968,1970,22-Jul-40,76,Bobby Rascoe,G-F,rascobo01,205.0,3,Western Kentucky University,S0456
 1986,1993,13-Nov-62,85,Blair Rasmussen,C,rasmubl01,250.0,8,University of Oregon,S0390
-2018,2018,29-Apr-94,76,Xavier Rathan-Mayes,G,rathaxa01,208.0,1,,
+2018,2018,29-Apr-94,76,Xavier Rathan-Mayes,G,rathaxa01,208.0,1,International/High School Prospect,S0152
 1950,1955,13-Nov-22,78,George Ratkovicz,C-F,ratkoge01,220.0,6,International/High School Prospect,S0152
 1974,1978,29-Mar-50,78,Ed Ratleff,F-G,ratleed01,195.0,5,"California State University, Long Beach",S0052
 1973,1974,7-Jun-51,82,Mike Ratliff,C,ratlimi01,230.0,2,University of Wisconsin-Eau Claire,S0423
@@ -3359,7 +3359,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1954,1954,,77,Frank Reddout,F,reddofr01,195.0,1,Syracuse University,S0303
 2007,2018,24-Jun-84,76,J.J. Redick,G,redicjj01,190.0,12,Duke University,S0096
 1979,1980,15-Apr-55,78,Marlon Redmond,G,redmoma01,188.0,2,University of San Francisco,S0399
-2018,2018,11-Jun-95,77,Davon Reed,G,reedda01,208.0,1,,
+2018,2018,11-Jun-95,77,Davon Reed,G,reedda01,208.0,1,International/High School Prospect,S0152
 1959,1965,4-Oct-36,81,Hub Reed,C-F,reedhu01,215.0,7,Oklahoma City University,S0238
 2005,2007,16-Jan-82,80,Justin Reed,F,reedju01,240.0,3,University of Mississippi,S0371
 1966,1967,2-Nov-42,77,Ron Reed,F,reedro01,205.0,2,University of Notre Dame,S0388
@@ -4140,8 +4140,8 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1971,1972,3-Oct-48,75,John Vallely,G,vallejo01,185.0,2,"University of California, Los Angeles",S0334
 1966,1977,22-Feb-43,77,Dick Van Arsdale,G-F,vanardi01,210.0,12,Indiana University,S0150
 1966,1977,22-Feb-43,77,Tom Van Arsdale,F-G,vanarto01,202.0,12,Indiana University,S0150
-1947,1950,28-Oct-22,75,Butch van Breda Kolff,G-F,vanbrbu01,185.0,4,,
-1975,1983,16-Dec-51,79,Jan van Breda Kolff,F-G,vanbrja01,195.0,9,,
+1947,1950,28-Oct-22,75,Butch van Breda Kolff,G-F,vanbrbu01,185.0,4,International/High School Prospect,S0152
+1975,1983,16-Dec-51,79,Jan van Breda Kolff,F-G,vanbrja01,195.0,9,International/High School Prospect,S0152
 1994,2006,27-Nov-71,73,Nick Van Exel,G,vanexni01,170.0,13,University of Cincinnati,S0341
 1998,2006,23-Oct-75,82,Keith Van Horn,F,vanhoke01,220.0,9,University of Utah,S0418
 1970,1979,1-Apr-47,73,Norm Van Lier,G,vanlino01,173.0,10,Saint Francis University,S0263
@@ -4220,7 +4220,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1997,2004,9-Feb-74,80,John Wallace,F,wallajo01,225.0,8,Syracuse University,S0303
 1996,2013,17-Sep-74,82,Rasheed Wallace,F-C,wallara01,225.0,18,University of North Carolina,S0382
 1947,1947,12-Jul-18,73,Red Wallace,G,wallare01,185.0,1,University of Scranton,S0400
-2018,2018,10-Jun-94,77,Tyrone Wallace,G,wallaty01,205.0,1,,
+2018,2018,10-Jun-94,77,Tyrone Wallace,G,wallaty01,205.0,1,International/High School Prospect,S0152
 1969,1972,5-Oct-45,78,Dwight Waller,F,walledw01,220.0,4,Tennessee State University,S0305
 1988,1988,20-Nov-64,76,Jamie Waller,G,walleja01,215.0,1,Virginia Union University,S0440
 2017,2018,22-Mar-94,80,Taurean Waller-Prince,F,princta02,220.0,2,Baylor University,S0025
@@ -4243,7 +4243,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1963,1970,4-Sep-36,77,Ben Warley,F-G,warlebe01,200.0,8,Tennessee State University,S0305
 1966,1970,20-Mar-41,77,Bob Warlick,G-F,warlibo01,200.0,5,Pepperdine University,S0247
 1971,1977,12-Aug-48,81,Cornell Warner,F-C,warneco01,220.0,7,Jackson State University,S0155
-2018,2018,31-Jan-94,80,Jameel Warney,F,warneja01,260.0,1,,
+2018,2018,31-Jan-94,80,Jameel Warney,F,warneja01,260.0,1,International/High School Prospect,S0152
 1969,1976,17-Jul-46,77,Bob Warren,G,warrebo01,190.0,8,Vanderbilt University,S0435
 1970,1974,7-Jul-47,75,John Warren,G-F,warrejo01,180.0,5,St. John's University,S0294
 2015,2018,5-Sep-93,80,T.J. Warren,F,warretj01,230.0,4,North Carolina State University,S0221
@@ -4277,7 +4277,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1993,2005,8-Sep-70,78,Clarence Weatherspoon,F,weathcl01,240.0,13,University of Southern Mississippi,S0407
 1974,1980,20-Jul-50,79,Nick Weatherspoon,F,weathni01,195.0,7,University of Illinois at Urbana-Champaign,S0355
 2009,2011,18-Feb-86,78,Kyle Weaver,G,weaveky01,201.0,3,Washington State University,S0445
-2018,2018,19-Aug-93,81,James Webb,F,webbja01,202.0,1,,
+2018,2018,19-Aug-93,81,James Webb,F,webbja01,202.0,1,International/High School Prospect,S0152
 1971,1972,6-Jul-48,76,Jeff Webb,G,webbje01,170.0,2,Kansas State University,S0160
 1993,1993,9-May-70,81,Marcus Webb,F-C,webbma01,255.0,1,University of Alabama,S0324
 1986,1998,13-Jul-63,66,Spud Webb,G,webbsp01,133.0,13,North Carolina State University,S0221
@@ -4323,7 +4323,7 @@ active_from,active_to,birth_date,height,name,position,player_id,weight,NBA Years
 1988,1989,27-Oct-59,73,Clinton Wheeler,G,wheelcl01,185.0,2,William Paterson University,S0464
 1999,1999,8-Oct-75,70,Tyson Wheeler,G,wheelty01,165.0,1,University of Rhode Island,S0395
 1955,1955,29-Aug-30,73,Skippy Whitaker,G,whitask01,180.0,1,University of Kentucky,S0358
-2018,2018,16-Jun-93,79,Andrew White,G,whitean01,210.0,1,,
+2018,2018,16-Jun-93,79,Andrew White,G,whitean01,210.0,1,International/High School Prospect,S0152
 2009,2014,31-Aug-86,81,D.J. White,F,whitedj01,251.0,6,Indiana University,S0150
 2018,2018,2-Jul-94,77,Derrick White,G,whitede01,190.0,1,University of Colorado,S0342
 1988,1989,30-Dec-65,80,Eric White,F,whiteer01,200.0,2,Pepperdine University,S0247
